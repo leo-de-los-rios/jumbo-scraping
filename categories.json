@@ -1,0 +1,1770 @@
+{
+    "categorias_generales": [
+        {
+            "nombre": "Electro",
+            "url": "https://www.jumbo.com.ar/electro",
+            "categorias": [
+                {
+                    "nombre": "Aire Acondicionado y Ventilación",
+                    "url": "https://www.jumbo.com.ar/Electro/Aire-Acondicionado-y-Ventilacion",
+                    "subcategorias": [
+                        {
+                            "nombre": "Aire Acondicionado",
+                            "url": "https://www.jumbo.com.ar/electro/aire-acondicionado-y-ventilacion/aire-acondicionado"
+                        },
+                        {
+                            "nombre": "Ventilación",
+                            "url": "https://www.jumbo.com.ar/electro/aire-acondicionado-y-ventilacion/ventilacion"
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Audio",
+                    "url": "https://www.jumbo.com.ar/electro/audio",
+                    "subcategorias": []
+                },
+                {
+                    "nombre": "Calefacción, Calefones y Termotanques",
+                    "url": "https://www.jumbo.com.ar/Electro/calefaccion-calefones-y-termotanques",
+                    "subcategorias": [
+                        {
+                            "nombre": "Calefacción",
+                            "url": "https://www.jumbo.com.ar/electro/calefaccion-calefones-y-termotanques/calefaccion"
+                        },
+                        {
+                            "nombre": "Calefones",
+                            "url": "https://www.jumbo.com.ar/electro/calefaccion-calefones-y-termotanques/calefones"
+                        },
+                        {
+                            "nombre": "Termotanques",
+                            "url": "https://www.jumbo.com.ar/electro/calefaccion-calefones-y-termotanques/termotanques"
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Cocinas y Hornos",
+                    "url": "https://www.jumbo.com.ar/Electro/Cocinas-y-Hornos",
+                    "subcategorias": [
+                        {
+                            "nombre": "Anafes",
+                            "url": "https://www.jumbo.com.ar/electro/cocinas-y-hornos/anafes"
+                        },
+                        {
+                            "nombre": "Cocinas",
+                            "url": "https://www.jumbo.com.ar/electro/cocinas-y-hornos/cocinas"
+                        },
+                        {
+                            "nombre": "Hornos",
+                            "url": "https://www.jumbo.com.ar/electro/cocinas-y-hornos/hornos"
+                        },
+                        {
+                            "nombre": "Microondas",
+                            "url": "https://www.jumbo.com.ar/electro/cocinas-y-hornos/microondas"
+                        },
+                        {
+                            "nombre": "Purificadores",
+                            "url": "https://www.jumbo.com.ar/electro/cocinas-y-hornos/purificadores"
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Consolas y Videojuegos",
+                    "url": "https://www.jumbo.com.ar/Electro/Consolas-y-Videojuegos",
+                    "subcategorias": [
+                        {
+                            "nombre": "Consolas",
+                            "url": "https://www.jumbo.com.ar/electro/consolas-y-videojuegos/videojuegos"
+                        },
+                        {
+                            "nombre": "Videojuegos",
+                            "url": "https://www.jumbo.com.ar/electro/consolas-y-videojuegos/videojuegos"
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Heladeras, Freezers y Cavas",
+                    "url": "https://www.jumbo.com.ar/Electro/Heladeras-Freezers-y-Cavas",
+                    "subcategorias": [
+                        {
+                            "nombre": "Heladera No Frost",
+                            "url": "https://www.jumbo.com.ar/electro/heladeras-freezers-y-cavas/heladera-no-frost"
+                        },
+                        {
+                            "nombre": "Heladera Cíclica",
+                            "url": "https://www.jumbo.com.ar/electro/heladeras-freezers-y-cavas/heladera-ciclica"
+                        },
+                        {
+                            "nombre": "Freezers",
+                            "url": "https://www.jumbo.com.ar/electro/heladeras-freezers-y-cavas/freezers"
+                        },
+                        {
+                            "nombre": "Heladeras Cavas",
+                            "url": "https://www.jumbo.com.ar/electro/heladeras-freezers-y-cavas/heladeras-cavas"
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Informática",
+                    "url": "https://www.jumbo.com.ar/electro/informatica",
+                    "subcategorias": []
+                },
+                {
+                    "nombre": "Lavado",
+                    "url": "https://www.jumbo.com.ar/Electro/Lavado",
+                    "subcategorias": [
+                        {
+                            "nombre": "Lavarropas",
+                            "url": "https://www.jumbo.com.ar/electro/lavado/lavarropas"
+                        },
+                        {
+                            "nombre": "Secarropas",
+                            "url": "https://www.jumbo.com.ar/electro/lavado/secarropas"
+                        },
+                        {
+                            "nombre": "Lavavajillas",
+                            "url": "https://www.jumbo.com.ar/electro/lavado/lavavajillas"
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Pequeños Electros",
+                    "url": "https://www.jumbo.com.ar/Electro/Pequenos-Electros",
+                    "subcategorias": [
+                        {
+                            "nombre": "Procesadoras",
+                            "url": "https://www.jumbo.com.ar/electro/pequenos-electros/procesadoras"
+                        },
+                        {
+                            "nombre": "Licuadoras",
+                            "url": "https://www.jumbo.com.ar/electro/pequenos-electros/licuadoras"
+                        },
+                        {
+                            "nombre": "Aspiradoras",
+                            "url": "https://www.jumbo.com.ar/electro/pequenos-electros/aspiradoras"
+                        },
+                        {
+                            "nombre": "Batidoras",
+                            "url": "https://www.jumbo.com.ar/electro/pequenos-electros/batidoras"
+                        },
+                        {
+                            "nombre": "Cuidado Personal",
+                            "url": "https://www.jumbo.com.ar/electro/pequenos-electros/cuidado-personal"
+                        },
+                        {
+                            "nombre": "Pequeños Electros de Cocina",
+                            "url": "https://www.jumbo.com.ar/electro/pequenos-electros/pequenos-electros-de-cocina"
+                        },
+                        {
+                            "nombre": "Pequeños Electros de Hogar",
+                            "url": "https://www.jumbo.com.ar/electro/pequenos-electros/pequenos-electros-de-hogar"
+                        },
+                        {
+                            "nombre": "Salud",
+                            "url": "https://www.jumbo.com.ar/electro/pequenos-electros/salud"
+                        },
+                        {
+                            "nombre": "Cafeteras y Molinillos",
+                            "url": "https://www.jumbo.com.ar/electro/pequenos-electros/cafeteras-y-molinillos"
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Teléfonos",
+                    "url": "https://www.jumbo.com.ar/electro/telefonos",
+                    "subcategorias": [
+                        {
+                            "nombre": "Celulares",
+                            "url": "https://www.jumbo.com.ar/electro/telefonos/celulares"
+                        },
+                        {
+                            "nombre": "Accesorios",
+                            "url": "https://www.jumbo.com.ar/electro/telefonos/accesorios-de-celulares"
+                        }
+                    ]
+                },
+                {
+                    "nombre": "TV y Video",
+                    "url": "https://www.jumbo.com.ar/electro/tv-y-video",
+                    "subcategorias": [
+                        {
+                            "nombre": "Televisores",
+                            "url": "https://www.jumbo.com.ar/electro/tv-y-video/televisores"
+                        },
+                        {
+                            "nombre": "Accesorios",
+                            "url": "https://www.jumbo.com.ar/electro/tv-y-video/accesorios-de-tv-y-video"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "nombre": "Hogar y Textil",
+            "url": "https://www.jumbo.com.ar/hogar-y-textil",
+            "categorias": [
+                {
+                    "nombre": "Automotor",
+                    "url": "https://www.jumbo.com.ar/Hogar-y-textil/Automotor",
+                    "subcategorias": []
+                },
+                {
+                    "nombre": "Baño",
+                    "url": "https://www.jumbo.com.ar/hogar-y-textil/bano",
+                    "subcategorias": []
+                },
+                {
+                    "nombre": "Cocina",
+                    "url": "https://www.jumbo.com.ar/hogar-y-textil/cocina",
+                    "subcategorias": []
+                },
+                {
+                    "nombre": "Colchones y Almohadas",
+                    "url": "https://www.jumbo.com.ar/hogar-y-textil/colchones-y-almohadas",
+                    "subcategorias": []
+                },
+                {
+                    "nombre": "Decoración",
+                    "url": "https://www.jumbo.com.ar/hogar-y-textil/decoracion",
+                    "subcategorias": []
+                },
+                {
+                    "nombre": "Cotillón",
+                    "url": "https://www.jumbo.com.ar/hogar-y-textil/cotillon",
+                    "subcategorias": []
+                },
+                {
+                    "nombre": "Ferretería",
+                    "url": "https://www.jumbo.com.ar/hogar-y-textil/ferreteria",
+                    "subcategorias": []
+                },
+                {
+                    "nombre": "Indumentaria",
+                    "url": "https://www.jumbo.com.ar/indumentaria",
+                    "subcategorias": []
+                },
+                {
+                    "nombre": "Mesa",
+                    "url": "https://www.jumbo.com.ar/hogar-y-textil/mesa",
+                    "subcategorias": []
+                },
+                {
+                    "nombre": "Muebles",
+                    "url": "https://www.jumbo.com.ar/hogar-y-textil/muebles",
+                    "subcategorias": []
+                },
+                {
+                    "nombre": "Organización",
+                    "url": "https://www.jumbo.com.ar/hogar-y-textil/organizacion",
+                    "subcategorias": []
+                },
+                {
+                    "nombre": "Ropa de Cama",
+                    "url": "https://www.jumbo.com.ar/hogar-y-textil/ropa-de-cama",
+                    "subcategorias": []
+                }
+            ]
+        },
+        {
+            "nombre": "Tiempo Libre",
+            "url": "https://www.jumbo.com.ar/tiempo-libre",
+            "categorias": [
+                {
+                    "nombre": "Aire Libre",
+                    "url": "https://www.jumbo.com.ar/tiempo-libre/aire-libre",
+                    "subcategorias": []
+                },
+                {
+                    "nombre": "Automotor",
+                    "url": "https://www.jumbo.com.ar/Hogar-y-textil/Automotor",
+                    "subcategorias": [
+                        {
+                            "nombre": "Accesorios para el Auto",
+                            "url": "https://www.jumbo.com.ar/hogar-y-textil/automotor/accesorios-para-el-auto"
+                        },
+                        {
+                            "nombre": "Cubiertas",
+                            "url": "https://www.jumbo.com.ar/hogar-y-textil/automotor/cubiertas"
+                        },
+                        {
+                            "nombre": "Limpieza",
+                            "url": "https://www.jumbo.com.ar/hogar-y-textil/automotor/limpieza"
+                        },
+                        {
+                            "nombre": "Lubricantes y Refrigerantes",
+                            "url": "https://www.jumbo.com.ar/hogar-y-textil/automotor/lubricantes-y-refrigerantes"
+                        },
+                        {
+                            "nombre": "Repuestos",
+                            "url": "https://www.jumbo.com.ar/hogar-y-textil/automotor/repuestos"
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Suplementos",
+                    "url": "https://www.jumbo.com.ar/Tiempo-Libre/Suplementos",
+                    "subcategorias": []
+                },
+                {
+                    "nombre": "Paraguas",
+                    "url": "https://www.jumbo.com.ar/Tiempo-Libre/Paraguas",
+                    "subcategorias": []
+                },
+                {
+                    "nombre": "Juguetería",
+                    "url": "https://www.jumbo.com.ar/Bebes-y-Ninos/Jugueteria",
+                    "subcategorias": [
+                        {
+                            "nombre": "Ensambles y Rompecabezas",
+                            "url": "https://www.jumbo.com.ar/bebes-y-ninos/jugueteria/ensambles-y-rompecabezas"
+                        },
+                        {
+                            "nombre": "Juegos de Mesa",
+                            "url": "https://www.jumbo.com.ar/bebes-y-ninos/jugueteria/juegos-de-mesa"
+                        },
+                        {
+                            "nombre": "Juguetes de Playa y Agua",
+                            "url": "https://www.jumbo.com.ar/bebes-y-ninos/jugueteria/juguetes-de-playa-y-agua"
+                        },
+                        {
+                            "nombre": "Juguetes para Bebés",
+                            "url": "https://www.jumbo.com.ar/bebes-y-ninos/jugueteria/juguetes-para-bebes"
+                        },
+                        {
+                            "nombre": "Juguetes",
+                            "url": "https://www.jumbo.com.ar/bebes-y-ninos/jugueteria/juguetes"
+                        },
+                        {
+                            "nombre": "Muñecas y Muñecos",
+                            "url": "https://www.jumbo.com.ar/bebes-y-ninos/jugueteria/munecas-y-munecos"
+                        },
+                        {
+                            "nombre": "Peluches",
+                            "url": "https://www.jumbo.com.ar/bebes-y-ninos/jugueteria/peluches"
+                        },
+                        {
+                            "nombre": "Disfraces",
+                            "url": "https://www.jumbo.com.ar/bebes-y-ninos/jugueteria/disfraces"
+                        },
+                        {
+                            "nombre": "Vehículos y Pistas",
+                            "url": "https://www.jumbo.com.ar/bebes-y-ninos/jugueteria/vehiculos-y-pistas"
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Valijas, Bolsos, Mochilas y Luncheras",
+                    "url": "https://www.jumbo.com.ar/tiempo-libre/valijas-bolsos-mochilas-y-luncheras",
+                    "subcategorias": []
+                },
+                {
+                    "nombre": "Librería",
+                    "url": "https://www.jumbo.com.ar/tiempo-libre/libreria",
+                    "subcategorias": []
+                },
+                {
+                    "nombre": "Libros",
+                    "url": "https://www.jumbo.com.ar/tiempo-libre/libros",
+                    "subcategorias": []
+                }
+            ]
+        },
+        {
+            "nombre": "Bebés y Niños",
+            "url": "https://www.jumbo.com.ar/bebes-y-ninos",
+            "categorias": [
+                {
+                    "nombre": "Alimentación",
+                    "url": "https://www.jumbo.com.ar/Bebes-y-Ninos/Alimentacion",
+                    "subcategorias": []
+                },
+                {
+                    "nombre": "Cuidado del Bebé",
+                    "url": "https://www.jumbo.com.ar/bebes-y-ninos/cuidado-del-bebe",
+                    "subcategorias": []
+                },
+                {
+                    "nombre": "Pijamas",
+                    "url": "https://www.jumbo.com.ar/Hogar-y-textil/Indumentaria/Pijamas",
+                    "subcategorias": []
+                },
+                {
+                    "nombre": "Cochecitos, Butacas y Sillitas",
+                    "url": "https://www.jumbo.com.ar/Bebes-y-Ninos/cochecitos-butacas-y-sillitas",
+                    "subcategorias": []
+                }
+            ]
+        },
+        {
+            "nombre": "Almacén",
+            "url": "https://www.jumbo.com.ar/almacen",
+            "categorias": [
+                {
+                    "nombre": "Aceites y Vinagres",
+                    "url": "https://www.jumbo.com.ar/Almacen/Aceites-y-Vinagres",
+                    "subcategorias": [
+                        {
+                            "nombre": "Aceites Comunes",
+                            "url": "https://www.jumbo.com.ar/almacen/aceites-y-vinagres/aceites-comunes"
+                        },
+                        {
+                            "nombre": "Aceites Especiales",
+                            "url": "https://www.jumbo.com.ar/almacen/aceites-y-vinagres/aceites-especiales"
+                        },
+                        {
+                            "nombre": "Acetos",
+                            "url": "https://www.jumbo.com.ar/almacen/aceites-y-vinagres/acetos"
+                        },
+                        {
+                            "nombre": "Jugos de Limón",
+                            "url": "https://www.jumbo.com.ar/almacen/aceites-y-vinagres/jugos-de-limon"
+                        },
+                        {
+                            "nombre": "Vinagres",
+                            "url": "https://www.jumbo.com.ar/almacen/aceites-y-vinagres/vinagres"
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Aderezos",
+                    "url": "https://www.jumbo.com.ar/Almacen/Aderezos",
+                    "subcategorias": [
+                        {
+                            "nombre": "Mayonesas",
+                            "url": "https://www.jumbo.com.ar/almacen/aderezos/mayonesas"
+                        },
+                        {
+                            "nombre": "Ketchup",
+                            "url": "https://www.jumbo.com.ar/almacen/aderezos/ketchup"
+                        },
+                        {
+                            "nombre": "Mostazas",
+                            "url": "https://www.jumbo.com.ar/almacen/aderezos/mostazas"
+                        },
+                        {
+                            "nombre": "Salsas Golf",
+                            "url": "https://www.jumbo.com.ar/almacen/aderezos/salsas-golf"
+                        },
+                        {
+                            "nombre": "Salsas Frías",
+                            "url": "https://www.jumbo.com.ar/almacen/aderezos/salsas-frias"
+                        },
+                        {
+                            "nombre": "Otros Condimentos",
+                            "url": "https://www.jumbo.com.ar/almacen/aderezos/otros-condimentos"
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Arroz y Legumbres",
+                    "url": "https://www.jumbo.com.ar/Almacen/Arroz-y-Legumbres",
+                    "subcategorias": [
+                        {
+                            "nombre": "Arroz",
+                            "url": "https://www.jumbo.com.ar/almacen/arroz-y-legumbres/arroz"
+                        },
+                        {
+                            "nombre": "Arroz Listos",
+                            "url": "https://www.jumbo.com.ar/almacen/arroz-y-legumbres/arroz-listos"
+                        },
+                        {
+                            "nombre": "Legumbres",
+                            "url": "https://www.jumbo.com.ar/almacen/arroz-y-legumbres/legumbres"
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Sal, Pimienta y Especias",
+                    "url": "https://www.jumbo.com.ar/Almacen/Sal-Pimienta-y-Especias",
+                    "subcategorias": [
+                        {
+                            "nombre": "Sal",
+                            "url": "https://www.jumbo.com.ar/almacen/sal-pimienta-y-especias/sal"
+                        },
+                        {
+                            "nombre": "Especias",
+                            "url": "https://www.jumbo.com.ar/almacen/sal-pimienta-y-especias/especias"
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Conservas",
+                    "url": "https://www.jumbo.com.ar/Almacen/Conservas",
+                    "subcategorias": [
+                        {
+                            "nombre": "Conservas de Carne",
+                            "url": "https://www.jumbo.com.ar/almacen/conservas/conservas-de-carne"
+                        },
+                        {
+                            "nombre": "Conservas de Frutas",
+                            "url": "https://www.jumbo.com.ar/almacen/conservas/conservas-de-frutas"
+                        },
+                        {
+                            "nombre": "Conservas de Pescado",
+                            "url": "https://www.jumbo.com.ar/almacen/conservas/conservas-de-pescado"
+                        },
+                        {
+                            "nombre": "Conservas de Verduras y Legumbres",
+                            "url": "https://www.jumbo.com.ar/almacen/conservas/conservas-de-verduras-y-legumbres"
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Desayuno y Merienda",
+                    "url": "https://www.jumbo.com.ar/Almacen/Desayuno-y-Merienda",
+                    "subcategorias": [
+                        {
+                            "nombre": "Azúcar y Edulcorantes",
+                            "url": "https://www.jumbo.com.ar/almacen/desayuno-y-merienda/azucar-y-edulcorantes"
+                        },
+                        {
+                            "nombre": "Bizcochuelos, Budines y Magdalenas",
+                            "url": "https://www.jumbo.com.ar/almacen/desayuno-y-merienda/bizcochuelos-budines-y-magdalenas"
+                        },
+                        {
+                            "nombre": "Cacao y Saborizantes",
+                            "url": "https://www.jumbo.com.ar/almacen/desayuno-y-merienda/cacao-y-saborizantes"
+                        },
+                        {
+                            "nombre": "Cafés",
+                            "url": "https://www.jumbo.com.ar/almacen/desayuno-y-merienda/cafes"
+                        },
+                        {
+                            "nombre": "Cereales",
+                            "url": "https://www.jumbo.com.ar/almacen/desayuno-y-merienda/cereales"
+                        },
+                        {
+                            "nombre": "Galletitas Dulces",
+                            "url": "https://www.jumbo.com.ar/almacen/desayuno-y-merienda/galletitas-dulces"
+                        },
+                        {
+                            "nombre": "Galletitas Saladas",
+                            "url": "https://www.jumbo.com.ar/almacen/desayuno-y-merienda/galletitas-saladas"
+                        },
+                        {
+                            "nombre": "Leches",
+                            "url": "https://www.jumbo.com.ar/almacen/desayuno-y-merienda/leches"
+                        },
+                        {
+                            "nombre": "Mermeladas y Jaleas",
+                            "url": "https://www.jumbo.com.ar/almacen/desayuno-y-merienda/mermeladas-y-jaleas"
+                        },
+                        {
+                            "nombre": "Piononos",
+                            "url": "https://www.jumbo.com.ar/almacen/desayuno-y-merienda/piononos"
+                        },
+                        {
+                            "nombre": "Tés",
+                            "url": "https://www.jumbo.com.ar/almacen/desayuno-y-merienda/tes"
+                        },
+                        {
+                            "nombre": "Yerbas",
+                            "url": "https://www.jumbo.com.ar/almacen/desayuno-y-merienda/yerbas"
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Golosinas y Chocolates",
+                    "url": "https://www.jumbo.com.ar/Almacen/Golosinas-y-Chocolates",
+                    "subcategorias": [
+                        {
+                            "nombre": "Alfajores",
+                            "url": "https://www.jumbo.com.ar/almacen/golosinas-y-chocolates/alfajores"
+                        },
+                        {
+                            "nombre": "Bocaditos y Postres",
+                            "url": "https://www.jumbo.com.ar/almacen/golosinas-y-chocolates/bocaditos-y-postres"
+                        },
+                        {
+                            "nombre": "Bombones",
+                            "url": "https://www.jumbo.com.ar/almacen/golosinas-y-chocolates/bombones"
+                        },
+                        {
+                            "nombre": "Caramelos y Chicles",
+                            "url": "https://www.jumbo.com.ar/almacen/golosinas-y-chocolates/caramelos-y-chicles"
+                        },
+                        {
+                            "nombre": "Chocolates",
+                            "url": "https://www.jumbo.com.ar/almacen/golosinas-y-chocolates/chocolates"
+                        },
+                        {
+                            "nombre": "Turrones y Grageas",
+                            "url": "https://www.jumbo.com.ar/almacen/golosinas-y-chocolates/turrones-y-grageas"
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Harinas",
+                    "url": "https://www.jumbo.com.ar/Almacen/harinas",
+                    "subcategorias": [
+                        {
+                            "nombre": "Harinas",
+                            "url": "https://www.jumbo.com.ar/almacen/harinas/harinas"
+                        },
+                        {
+                            "nombre": "Avenas y Sémolas",
+                            "url": "https://www.jumbo.com.ar/almacen/harinas/avenas-y-semolas"
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Panificados",
+                    "url": "https://www.jumbo.com.ar/Almacen/panificados",
+                    "subcategorias": [
+                        {
+                            "nombre": "Lacteados",
+                            "url": "https://www.jumbo.com.ar/almacen/panificados/lacteados"
+                        },
+                        {
+                            "nombre": "Pan Para Hamburguesas y Panchos",
+                            "url": "https://www.jumbo.com.ar/almacen/panificados/pan-para-hamburguesas-y-panchos"
+                        },
+                        {
+                            "nombre": "Tostadas y Grisines",
+                            "url": "https://www.jumbo.com.ar/almacen/panificados/tostadas-y-grisines"
+                        },
+                        {
+                            "nombre": "Pan Rallado y Rebozador",
+                            "url": "https://www.jumbo.com.ar/almacen/panificados/pan-rallado-y-rebozador"
+                        },
+                        {
+                            "nombre": "Integral y Salvado",
+                            "url": "https://www.jumbo.com.ar/almacen/panificados/integral-y-salvado"
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Sopas, Caldos y Puré",
+                    "url": "https://www.jumbo.com.ar/Almacen/caldos-sopas-pure-y-bolsas-para-horno",
+                    "subcategorias": [
+                        {
+                            "nombre": "Puré",
+                            "url": "https://www.jumbo.com.ar/almacen/caldos-sopas-pure-y-bolsas-para-horno/pure"
+                        },
+                        {
+                            "nombre": "Sopas",
+                            "url": "https://www.jumbo.com.ar/almacen/caldos-sopas-pure-y-bolsas-para-horno/sopas"
+                        },
+                        {
+                            "nombre": "Caldos",
+                            "url": "https://www.jumbo.com.ar/almacen/caldos-sopas-pure-y-bolsas-para-horno/caldos"
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Para Preparar",
+                    "url": "https://www.jumbo.com.ar/Almacen/para-preparar",
+                    "subcategorias": [
+                        {
+                            "nombre": "Bizcochuelos, Brownies y Tortas",
+                            "url": "https://www.jumbo.com.ar/almacen/para-preparar/bizcochuelos-brownies-y-tortas"
+                        },
+                        {
+                            "nombre": "Comidas",
+                            "url": "https://www.jumbo.com.ar/almacen/para-preparar/comidas"
+                        },
+                        {
+                            "nombre": "Flanes",
+                            "url": "https://www.jumbo.com.ar/almacen/para-preparar/flanes"
+                        },
+                        {
+                            "nombre": "Gelatinas",
+                            "url": "https://www.jumbo.com.ar/almacen/para-preparar/gelatinas"
+                        },
+                        {
+                            "nombre": "Helados",
+                            "url": "https://www.jumbo.com.ar/almacen/para-preparar/helados"
+                        },
+                        {
+                            "nombre": "Mousse",
+                            "url": "https://www.jumbo.com.ar/almacen/para-preparar/mousse"
+                        },
+                        {
+                            "nombre": "Pastelería",
+                            "url": "https://www.jumbo.com.ar/almacen/para-preparar/pasteleria"
+                        },
+                        {
+                            "nombre": "Postres",
+                            "url": "https://www.jumbo.com.ar/almacen/para-preparar/postres"
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Pastas Secas y Salsas",
+                    "url": "https://www.jumbo.com.ar/Almacen/pastas-secas-y-salsas",
+                    "subcategorias": [
+                        {
+                            "nombre": "Pastas Secas Guiseras",
+                            "url": "https://www.jumbo.com.ar/almacen/pastas-secas-y-salsas/pastas-secas-guiseras"
+                        },
+                        {
+                            "nombre": "Pastas Secas Largas",
+                            "url": "https://www.jumbo.com.ar/almacen/pastas-secas-y-salsas/pastas-secas-largas"
+                        },
+                        {
+                            "nombre": "Pastas Listas",
+                            "url": "https://www.jumbo.com.ar/almacen/pastas-secas-y-salsas/pastas-listas"
+                        },
+                        {
+                            "nombre": "Salsas",
+                            "url": "https://www.jumbo.com.ar/almacen/pastas-secas-y-salsas/salsas"
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Snacks",
+                    "url": "https://www.jumbo.com.ar/Almacen/snacks",
+                    "subcategorias": [
+                        {
+                            "nombre": "Frutas Secas y Disecadas",
+                            "url": "https://www.jumbo.com.ar/almacen/snacks/frutas-secas-y-disecadas"
+                        },
+                        {
+                            "nombre": "Maní",
+                            "url": "https://www.jumbo.com.ar/almacen/snacks/mani"
+                        },
+                        {
+                            "nombre": "Nachos",
+                            "url": "https://www.jumbo.com.ar/almacen/snacks/nachos"
+                        },
+                        {
+                            "nombre": "Palitos de Maíz",
+                            "url": "https://www.jumbo.com.ar/almacen/snacks/palitos-de-maiz"
+                        },
+                        {
+                            "nombre": "Palitos Salados",
+                            "url": "https://www.jumbo.com.ar/almacen/snacks/palitos-salados"
+                        },
+                        {
+                            "nombre": "Papas Fritas",
+                            "url": "https://www.jumbo.com.ar/almacen/snacks/papas-fritas"
+                        },
+                        {
+                            "nombre": "Pochoclos",
+                            "url": "https://www.jumbo.com.ar/almacen/snacks/pochoclos"
+                        },
+                        {
+                            "nombre": "Snacks",
+                            "url": "https://www.jumbo.com.ar/almacen/snacks/snacks"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "nombre": "Bebidas",
+            "url": "https://www.jumbo.com.ar/bebidas",
+            "categorias": [
+                {
+                    "nombre": "A Base de Hierbas",
+                    "url": "https://www.jumbo.com.ar/Bebidas/A-Base-de-Hierbas",
+                    "subcategorias": []
+                },
+                {
+                    "nombre": "Aguas",
+                    "url": "https://www.jumbo.com.ar/Bebidas/Aguas",
+                    "subcategorias": [
+                        {
+                            "nombre": "Aguas Sin Gas",
+                            "url": "https://www.jumbo.com.ar/bebidas/aguas/aguas-sin-gas"
+                        },
+                        {
+                            "nombre": "Aguas Con Gas",
+                            "url": "https://www.jumbo.com.ar/bebidas/aguas/aguas-con-gas"
+                        },
+                        {
+                            "nombre": "Aguas Saborizadas",
+                            "url": "https://www.jumbo.com.ar/bebidas/aguas/aguas-saborizadas"
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Aperitivos",
+                    "url": "https://www.jumbo.com.ar/Bebidas/Aperitivos",
+                    "subcategorias": []
+                },
+                {
+                    "nombre": "Bebidas Blancas",
+                    "url": "https://www.jumbo.com.ar/Bebidas/Bebidas-Blancas",
+                    "subcategorias": []
+                },
+                {
+                    "nombre": "Cervezas",
+                    "url": "https://www.jumbo.com.ar/Bebidas/Cervezas",
+                    "subcategorias": []
+                },
+                {
+                    "nombre": "Champagnes",
+                    "url": "https://www.jumbo.com.ar/Bebidas/Champagnes",
+                    "subcategorias": []
+                },
+                {
+                    "nombre": "Energizantes",
+                    "url": "https://www.jumbo.com.ar/Bebidas/Energizantes",
+                    "subcategorias": []
+                },
+                {
+                    "nombre": "Gaseosas",
+                    "url": "https://www.jumbo.com.ar/Bebidas/Gaseosas",
+                    "subcategorias": [
+                        {
+                            "nombre": "Cola",
+                            "url": "https://www.jumbo.com.ar/bebidas/gaseosas/cola"
+                        },
+                        {
+                            "nombre": "Lima Limón",
+                            "url": "https://www.jumbo.com.ar/bebidas/gaseosas/lima-limon"
+                        },
+                        {
+                            "nombre": "Naranja",
+                            "url": "https://www.jumbo.com.ar/bebidas/gaseosas/naranja"
+                        },
+                        {
+                            "nombre": "Pomelo",
+                            "url": "https://www.jumbo.com.ar/bebidas/gaseosas/pomelo"
+                        },
+                        {
+                            "nombre": "Tónica",
+                            "url": "https://www.jumbo.com.ar/bebidas/gaseosas/tonica"
+                        },
+                        {
+                            "nombre": "Guaraná",
+                            "url": "https://www.jumbo.com.ar/bebidas/gaseosas/guarana"
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Generosos",
+                    "url": "https://www.jumbo.com.ar/Bebidas/Generosos",
+                    "subcategorias": []
+                },
+                {
+                    "nombre": "Hielo",
+                    "url": "https://www.jumbo.com.ar/Bebidas/Hielo",
+                    "subcategorias": []
+                },
+                {
+                    "nombre": "Isotónicas",
+                    "url": "https://www.jumbo.com.ar/Bebidas/Isotonicas",
+                    "subcategorias": []
+                },
+                {
+                    "nombre": "Jugos",
+                    "url": "https://www.jumbo.com.ar/Bebidas/Jugos",
+                    "subcategorias": [
+                        {
+                            "nombre": "En Polvo",
+                            "url": "https://www.jumbo.com.ar/bebidas/jugos/en-polvo"
+                        },
+                        {
+                            "nombre": "Listos",
+                            "url": "https://www.jumbo.com.ar/bebidas/jugos/listos"
+                        },
+                        {
+                            "nombre": "Granadina",
+                            "url": "https://www.jumbo.com.ar/bebidas/jugos/granadina"
+                        },
+                        {
+                            "nombre": "Frescos",
+                            "url": "https://www.jumbo.com.ar/bebidas/jugos/frescos"
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Licores",
+                    "url": "https://www.jumbo.com.ar/Bebidas/Licores",
+                    "subcategorias": []
+                },
+                {
+                    "nombre": "Sidras",
+                    "url": "https://www.jumbo.com.ar/Bebidas/Sidras",
+                    "subcategorias": []
+                },
+                {
+                    "nombre": "Vinos",
+                    "url": "https://www.jumbo.com.ar/Bebidas/Vinos",
+                    "subcategorias": [
+                        {
+                            "nombre": "Vinos Blancos",
+                            "url": "https://www.jumbo.com.ar/bebidas/vinos/vinos-blancos"
+                        },
+                        {
+                            "nombre": "Vinos Tintos",
+                            "url": "https://www.jumbo.com.ar/bebidas/vinos/vinos-tintos"
+                        },
+                        {
+                            "nombre": "Vinos Rosados",
+                            "url": "https://www.jumbo.com.ar/bebidas/vinos/vinos-rosados"
+                        },
+                        {
+                            "nombre": "Vinos Frizantes",
+                            "url": "https://www.jumbo.com.ar/bebidas/vinos/vinos-frizantes"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "nombre": "Frutas y Verduras",
+            "url": "https://www.jumbo.com.ar/frutas-y-verduras",
+            "categorias": [
+                {
+                    "nombre": "Frutas",
+                    "url": "https://www.jumbo.com.ar/frutas-y-verduras/frutas",
+                    "subcategorias": [
+                        {
+                            "nombre": "Frutas Empaquetadas",
+                            "url": "https://www.jumbo.com.ar/frutas-y-verduras/frutas/frutas-empaquetadas"
+                        },
+                        {
+                            "nombre": "Frutas Secas y Desecadas",
+                            "url": "https://www.jumbo.com.ar/frutas-y-verduras/frutas/frutas-secas-y-desecadas"
+                        },
+                        {
+                            "nombre": "Frutas Sueltas",
+                            "url": "https://www.jumbo.com.ar/frutas-y-verduras/frutas/frutas-sueltas"
+                        },
+                        {
+                            "nombre": "Frutas Congeladas",
+                            "url": "https://www.jumbo.com.ar/frutas-y-verduras/frutas/frutas-congeladas"
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Hierbas Aromáticas y Plantines",
+                    "url": "https://www.jumbo.com.ar/frutas-y-verduras/hierbas-aromaticas-y-plantines",
+                    "subcategorias": []
+                },
+                {
+                    "nombre": "Huevos",
+                    "url": "https://www.jumbo.com.ar/frutas-y-verduras/huevos",
+                    "subcategorias": []
+                },
+                {
+                    "nombre": "Legumbres, Granos y Semillas",
+                    "url": "https://www.jumbo.com.ar/frutas-y-verduras/legumbres-granos-y-semillas",
+                    "subcategorias": []
+                },
+                {
+                    "nombre": "Orgánicos",
+                    "url": "https://www.jumbo.com.ar/frutas-y-verduras/organicos",
+                    "subcategorias": []
+                },
+                {
+                    "nombre": "Verduras",
+                    "url": "https://www.jumbo.com.ar/frutas-y-verduras/verduras",
+                    "subcategorias": [
+                        {
+                            "nombre": "Hortalizas Livianas",
+                            "url": "https://www.jumbo.com.ar/frutas-y-verduras/verduras/hortalizas-livianas"
+                        },
+                        {
+                            "nombre": "Hortalizas Pesadas",
+                            "url": "https://www.jumbo.com.ar/frutas-y-verduras/verduras/hortalizas-pesadas"
+                        },
+                        {
+                            "nombre": "Verduras Empaquetadas",
+                            "url": "https://www.jumbo.com.ar/frutas-y-verduras/verduras/verduras-empaquetadas"
+                        },
+                        {
+                            "nombre": "Verduras Frescas de Hoja",
+                            "url": "https://www.jumbo.com.ar/frutas-y-verduras/verduras/verduras-frescas-de-hoja"
+                        },
+                        {
+                            "nombre": "Verduras Procesadas y Ensaladas Listas",
+                            "url": "https://www.jumbo.com.ar/frutas-y-verduras/verduras/verduras-procesadas-y-ensaladas-listas"
+                        },
+                        {
+                            "nombre": "Verduras Secas y Desecadas",
+                            "url": "https://www.jumbo.com.ar/frutas-y-verduras/verduras/verduras-secas-y-desecadas"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "nombre": "Carnes",
+            "url": "https://www.jumbo.com.ar/carnes",
+            "categorias": [
+                {
+                    "nombre": "Carne Vacuna",
+                    "url": "https://www.jumbo.com.ar/carnes/carne-vacuna",
+                    "subcategorias": [
+                        {
+                            "nombre": "Novillito",
+                            "url": "https://www.jumbo.com.ar/carnes/carne-vacuna/novillito"
+                        },
+                        {
+                            "nombre": "Novillito Especial",
+                            "url": "https://www.jumbo.com.ar/carnes/carne-vacuna/novillito-especial"
+                        },
+                        {
+                            "nombre": "La Hacienda Premium",
+                            "url": "https://www.jumbo.com.ar/carnes/carne-vacuna/la-hacienda-premium"
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Carne de Cerdo",
+                    "url": "https://www.jumbo.com.ar/carnes/carne-de-cerdo",
+                    "subcategorias": []
+                },
+                {
+                    "nombre": "Cordero, Lechón, Chivito y Conejo",
+                    "url": "https://www.jumbo.com.ar/carnes/cordero-lechon-chivito-y-conejo",
+                    "subcategorias": []
+                },
+                {
+                    "nombre": "Carbón y Leña",
+                    "url": "https://www.jumbo.com.ar/carnes/carbon-y-lena",
+                    "subcategorias": []
+                },
+                {
+                    "nombre": "Listos Para Cocinar",
+                    "url": "https://www.jumbo.com.ar/carnes/listos-para-cocinar",
+                    "subcategorias": []
+                },
+                {
+                    "nombre": "Embutidos",
+                    "url": "https://www.jumbo.com.ar/carnes/embutidos",
+                    "subcategorias": [
+                        {
+                            "nombre": "Chorizos",
+                            "url": "https://www.jumbo.com.ar/carnes/embutidos/chorizos"
+                        },
+                        {
+                            "nombre": "Morcilla",
+                            "url": "https://www.jumbo.com.ar/carnes/embutidos/morcilla"
+                        },
+                        {
+                            "nombre": "Salchichas",
+                            "url": "https://www.jumbo.com.ar/carnes/embutidos/salchichas"
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Pollos",
+                    "url": "https://www.jumbo.com.ar/carnes/pollos",
+                    "subcategorias": []
+                },
+                {
+                    "nombre": "Menudencias",
+                    "url": "https://www.jumbo.com.ar/carnes/menudencias",
+                    "subcategorias": []
+                }
+            ]
+        },
+        {
+            "nombre": "Pescados y Mariscos",
+            "url": "https://www.jumbo.com.ar/pescados-y-mariscos",
+            "categorias": [
+                {
+                    "nombre": "Pescados",
+                    "url": "https://www.jumbo.com.ar/Pescados-y-Mariscos/Pescados",
+                    "subcategorias": []
+                },
+                {
+                    "nombre": "Mariscos",
+                    "url": "https://www.jumbo.com.ar/Pescados-y-Mariscos/Mariscos",
+                    "subcategorias": []
+                }
+            ]
+        },
+        {
+            "nombre": "Quesos y Fiambres",
+            "url": "https://www.jumbo.com.ar/quesos-y-fiambres",
+            "categorias": [
+                {
+                    "nombre": "Quesos",
+                    "url": "https://www.jumbo.com.ar/quesos-y-fiambres/quesos",
+                    "subcategorias": [
+                        {
+                            "nombre": "Quesos Untables",
+                            "url": "https://www.jumbo.com.ar/quesos-y-fiambres/quesos/quesos-untables"
+                        },
+                        {
+                            "nombre": "Queso Muzzarella",
+                            "url": "https://www.jumbo.com.ar/quesos-y-fiambres/quesos/queso-muzzarella"
+                        },
+                        {
+                            "nombre": "Quesos Port Salut y Cremosos",
+                            "url": "https://www.jumbo.com.ar/quesos-y-fiambres/quesos/quesos-port-salut-y-cremosos"
+                        },
+                        {
+                            "nombre": "Quesos Semiblandos",
+                            "url": "https://www.jumbo.com.ar/quesos-y-fiambres/quesos/quesos-semiblandos"
+                        },
+                        {
+                            "nombre": "Quesos Duros",
+                            "url": "https://www.jumbo.com.ar/quesos-y-fiambres/quesos/quesos-duros"
+                        },
+                        {
+                            "nombre": "Quesos Especiales e Importados",
+                            "url": "https://www.jumbo.com.ar/quesos-y-fiambres/quesos/quesos-especiales-e-importados"
+                        },
+                        {
+                            "nombre": "Quesos Rallados",
+                            "url": "https://www.jumbo.com.ar/quesos-y-fiambres/quesos/quesos-rallados"
+                        },
+                        {
+                            "nombre": "Ricota",
+                            "url": "https://www.jumbo.com.ar/quesos-y-fiambres/quesos/ricota"
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Fiambres",
+                    "url": "https://www.jumbo.com.ar/quesos-y-fiambres/fiambres",
+                    "subcategorias": [
+                        {
+                            "nombre": "Jamón Cocido y Crudo",
+                            "url": "https://www.jumbo.com.ar/quesos-y-fiambres/fiambres/jamon-cocido-y-crudo"
+                        },
+                        {
+                            "nombre": "Fiambres",
+                            "url": "https://www.jumbo.com.ar/quesos-y-fiambres/fiambres/fiambres"
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Dulces",
+                    "url": "https://www.jumbo.com.ar/quesos-y-fiambres/dulces",
+                    "subcategorias": []
+                },
+                {
+                    "nombre": "Encurtidos, Aceitunas y Pickles",
+                    "url": "https://www.jumbo.com.ar/quesos-y-fiambres/encurtidos-aceitunas-y-pickles",
+                    "subcategorias": []
+                },
+                {
+                    "nombre": "Salchichas",
+                    "url": "https://www.jumbo.com.ar/quesos-y-fiambres/salchichas",
+                    "subcategorias": []
+                }
+            ]
+        },
+        {
+            "nombre": "Lácteos",
+            "url": "https://www.jumbo.com.ar/lacteos",
+            "categorias": [
+                {
+                    "nombre": "Cremas",
+                    "url": "https://www.jumbo.com.ar/lacteos/cremas",
+                    "subcategorias": []
+                },
+                {
+                    "nombre": "Dulce de Leche",
+                    "url": "https://www.jumbo.com.ar/lacteos/dulce-de-leche",
+                    "subcategorias": []
+                },
+                {
+                    "nombre": "Leches",
+                    "url": "https://www.jumbo.com.ar/lacteos/leches",
+                    "subcategorias": [
+                        {
+                            "nombre": "Leches Larga Vida",
+                            "url": "https://www.jumbo.com.ar/lacteos/leches/leches-larga-vida"
+                        },
+                        {
+                            "nombre": "Leches Refrigeradas",
+                            "url": "https://www.jumbo.com.ar/lacteos/leches/leches-refrigeradas"
+                        },
+                        {
+                            "nombre": "Leches Saborizadas",
+                            "url": "https://www.jumbo.com.ar/lacteos/leches/leches-saborizadas"
+                        },
+                        {
+                            "nombre": "Bebidas Vegetales",
+                            "url": "https://www.jumbo.com.ar/lacteos/leches/bebidas-vegetales"
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Mantecas y Margarinas",
+                    "url": "https://www.jumbo.com.ar/lacteos/mantecas-y-margarinas",
+                    "subcategorias": [
+                        {
+                            "nombre": "Manteca",
+                            "url": "https://www.jumbo.com.ar/lacteos/mantecas-y-margarinas/manteca"
+                        },
+                        {
+                            "nombre": "Margarinas",
+                            "url": "https://www.jumbo.com.ar/lacteos/mantecas-y-margarinas/margarinas"
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Pastas Frescas y Tapas",
+                    "url": "https://www.jumbo.com.ar/lacteos/pastas-frescas-y-tapas",
+                    "subcategorias": [
+                        {
+                            "nombre": "Fideos y Ñoquis",
+                            "url": "https://www.jumbo.com.ar/lacteos/pastas-frescas-y-tapas/fideos-y-noquis"
+                        },
+                        {
+                            "nombre": "Grasas",
+                            "url": "https://www.jumbo.com.ar/lacteos/pastas-frescas-y-tapas/grasas"
+                        },
+                        {
+                            "nombre": "Masas y Lavaduras",
+                            "url": "https://www.jumbo.com.ar/lacteos/pastas-frescas-y-tapas/masas-y-lavaduras"
+                        },
+                        {
+                            "nombre": "Pastas Rellenas",
+                            "url": "https://www.jumbo.com.ar/lacteos/pastas-frescas-y-tapas/pastas-rellenas"
+                        },
+                        {
+                            "nombre": "Tapas",
+                            "url": "https://www.jumbo.com.ar/lacteos/pastas-frescas-y-tapas/tapas"
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Postres",
+                    "url": "https://www.jumbo.com.ar/lacteos/postres",
+                    "subcategorias": []
+                },
+                {
+                    "nombre": "Yogures",
+                    "url": "https://www.jumbo.com.ar/lacteos/yogures",
+                    "subcategorias": [
+                        {
+                            "nombre": "Yogures Descremados",
+                            "url": "https://www.jumbo.com.ar/lacteos/yogures/yogures-descremados"
+                        },
+                        {
+                            "nombre": "Yogures Enteros",
+                            "url": "https://www.jumbo.com.ar/lacteos/yogures/yogures-enteros"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "nombre": "Congelados",
+            "url": "https://www.jumbo.com.ar/congelados",
+            "categorias": [
+                {
+                    "nombre": "Comidas Congeladas",
+                    "url": "https://www.jumbo.com.ar/congelados/comidas-congeladas",
+                    "subcategorias": [
+                        {
+                            "nombre": "Pizzas",
+                            "url": "https://www.jumbo.com.ar/congelados/comidas-congeladas/pizzas"
+                        },
+                        {
+                            "nombre": "Empanadas y Tartas",
+                            "url": "https://www.jumbo.com.ar/congelados/comidas-congeladas/empanadas-y-tartas"
+                        },
+                        {
+                            "nombre": "Comidas Congeladas",
+                            "url": "https://www.jumbo.com.ar/congelados/comidas-congeladas/comidas-congeladas"
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Helados y Postres",
+                    "url": "https://www.jumbo.com.ar/congelados/helados-y-postres",
+                    "subcategorias": []
+                }
+            ]
+        },
+        {
+            "nombre": "Panadería y Repostería",
+            "url": "https://www.jumbo.com.ar/panaderia-y-reposteria",
+            "categorias": [
+                {
+                    "nombre": "Panadería",
+                    "url": "https://www.jumbo.com.ar/Panaderia-y-Reposteria/Panaderia",
+                    "subcategorias": [
+                        {
+                            "nombre": "Pizzas y Prepizzas",
+                            "url": "https://www.jumbo.com.ar/panaderia-y-reposteria/panaderia/pizzas-y-prepizzas"
+                        },
+                        {
+                            "nombre": "Sándwiches",
+                            "url": "https://www.jumbo.com.ar/panaderia-y-reposteria/panaderia/sandwiches"
+                        },
+                        {
+                            "nombre": "Panificados",
+                            "url": "https://www.jumbo.com.ar/panaderia-y-reposteria/panaderia/panificados"
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Repostería",
+                    "url": "https://www.jumbo.com.ar/Panaderia-y-Reposteria/Reposteria",
+                    "subcategorias": []
+                }
+            ]
+        },
+        {
+            "nombre": "Comidas Preparadas",
+            "url": "https://www.jumbo.com.ar/comidas-preparadas",
+            "categorias": [
+                {
+                    "nombre": "Menú Caliente",
+                    "url": "https://www.jumbo.com.ar/Comidas-Preparadas/Menu-Caliente",
+                    "subcategorias": []
+                },
+                {
+                    "nombre": "Menú Frío",
+                    "url": "https://www.jumbo.com.ar/Comidas-Preparadas/Menu-Frio",
+                    "subcategorias": []
+                },
+                {
+                    "nombre": "Postres",
+                    "url": "https://www.jumbo.com.ar/Comidas-Preparadas/Postres",
+                    "subcategorias": []
+                }
+            ]
+        },
+        {
+            "nombre": "Perfumería",
+            "url": "https://www.jumbo.com.ar/perfumeria",
+            "categorias": [
+                {
+                    "nombre": "Cuidado Capilar",
+                    "url": "https://www.jumbo.com.ar/Perfumeria/Cuidado-Capilar",
+                    "subcategorias": [
+                        {
+                            "nombre": "Coloración",
+                            "url": "https://www.jumbo.com.ar/perfumeria/cuidado-capilar/coloracion"
+                        },
+                        {
+                            "nombre": "Acondicionador",
+                            "url": "https://www.jumbo.com.ar/perfumeria/cuidado-capilar/acondicionador"
+                        },
+                        {
+                            "nombre": "Fijación",
+                            "url": "https://www.jumbo.com.ar/perfumeria/cuidado-capilar/fijacion"
+                        },
+                        {
+                            "nombre": "Pediculosis",
+                            "url": "https://www.jumbo.com.ar/perfumeria/cuidado-capilar/pediculosis"
+                        },
+                        {
+                            "nombre": "Reparación y Tratamientos",
+                            "url": "https://www.jumbo.com.ar/perfumeria/cuidado-capilar/reparacion-y-tratamientos"
+                        },
+                        {
+                            "nombre": "Shampoo",
+                            "url": "https://www.jumbo.com.ar/perfumeria/cuidado-capilar/shampoo"
+                        },
+                        {
+                            "nombre": "Cepillos para Pelo",
+                            "url": "https://www.jumbo.com.ar/perfumeria/cuidado-capilar/cepillos-para-pelo"
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Cuidado de la Piel",
+                    "url": "https://www.jumbo.com.ar/Perfumeria/Cuidado-de-la-Piel",
+                    "subcategorias": [
+                        {
+                            "nombre": "Cremas Corporales",
+                            "url": "https://www.jumbo.com.ar/perfumeria/cuidado-de-la-piel/cremas-corporales"
+                        },
+                        {
+                            "nombre": "Cremas Desmaquillantes",
+                            "url": "https://www.jumbo.com.ar/perfumeria/cuidado-de-la-piel/cremas-desmaquillantes"
+                        },
+                        {
+                            "nombre": "Cremas Faciales",
+                            "url": "https://www.jumbo.com.ar/perfumeria/cuidado-de-la-piel/cremas-faciales"
+                        },
+                        {
+                            "nombre": "Solares y Post-Solares",
+                            "url": "https://www.jumbo.com.ar/perfumeria/cuidado-de-la-piel/solares-y-post-solares"
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Cuidado Personal",
+                    "url": "https://www.jumbo.com.ar/Perfumeria/Cuidado-Personal",
+                    "subcategorias": [
+                        {
+                            "nombre": "Cepillos y Esponjas",
+                            "url": "https://www.jumbo.com.ar/perfumeria/cuidado-personal/cepillos-y-esponjas"
+                        },
+                        {
+                            "nombre": "Depilación",
+                            "url": "https://www.jumbo.com.ar/perfumeria/cuidado-personal/depilacion"
+                        },
+                        {
+                            "nombre": "Desodorantes de Hombres",
+                            "url": "https://www.jumbo.com.ar/perfumeria/cuidado-personal/desodorantes-de-hombres"
+                        },
+                        {
+                            "nombre": "Desodorantes de Mujer",
+                            "url": "https://www.jumbo.com.ar/perfumeria/cuidado-personal/desodorantes-de-mujer"
+                        },
+                        {
+                            "nombre": "Desodorantes y Polvos Pédicos",
+                            "url": "https://www.jumbo.com.ar/perfumeria/cuidado-personal/desodorantes-y-polvos-pedicos"
+                        },
+                        {
+                            "nombre": "Geles de Ducha",
+                            "url": "https://www.jumbo.com.ar/perfumeria/cuidado-personal/geles-de-ducha"
+                        },
+                        {
+                            "nombre": "Jabones",
+                            "url": "https://www.jumbo.com.ar/perfumeria/cuidado-personal/jabones"
+                        },
+                        {
+                            "nombre": "Protección Adultos",
+                            "url": "https://www.jumbo.com.ar/perfumeria/cuidado-personal/proteccion-adultos"
+                        },
+                        {
+                            "nombre": "Protección Femenina",
+                            "url": "https://www.jumbo.com.ar/perfumeria/cuidado-personal/proteccion-femenina"
+                        },
+                        {
+                            "nombre": "Productos Para Afeitarse",
+                            "url": "https://www.jumbo.com.ar/perfumeria/cuidado-personal/productos-para-afeitarse"
+                        },
+                        {
+                            "nombre": "Quitaesmaltes",
+                            "url": "https://www.jumbo.com.ar/perfumeria/cuidado-personal/quitaesmaltes"
+                        },
+                        {
+                            "nombre": "Higiene Preventiva",
+                            "url": "https://www.jumbo.com.ar/perfumeria/cuidado-personal/higiene-preventiva"
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Cuidado Oral",
+                    "url": "https://www.jumbo.com.ar/Perfumeria/Cuidado-Oral",
+                    "subcategorias": [
+                        {
+                            "nombre": "Pastas Dentales",
+                            "url": "https://www.jumbo.com.ar/perfumeria/cuidado-oral/pastas-dentales"
+                        },
+                        {
+                            "nombre": "Cepillos Dentales",
+                            "url": "https://www.jumbo.com.ar/perfumeria/cuidado-oral/cepillos-dentales"
+                        },
+                        {
+                            "nombre": "Enjuagues Bucales",
+                            "url": "https://www.jumbo.com.ar/perfumeria/cuidado-oral/enjuagues-bucales"
+                        },
+                        {
+                            "nombre": "Accesorios Dentales",
+                            "url": "https://www.jumbo.com.ar/perfumeria/cuidado-oral/accesorios-dentales"
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Farmacia",
+                    "url": "https://www.jumbo.com.ar/Perfumeria/Farmacia",
+                    "subcategorias": [
+                        {
+                            "nombre": "Algodón",
+                            "url": "https://www.jumbo.com.ar/perfumeria/farmacia/algodon"
+                        },
+                        {
+                            "nombre": "Alcohol",
+                            "url": "https://www.jumbo.com.ar/perfumeria/farmacia/alcohol"
+                        },
+                        {
+                            "nombre": "Apósitos",
+                            "url": "https://www.jumbo.com.ar/perfumeria/farmacia/apositos"
+                        },
+                        {
+                            "nombre": "Preservativos",
+                            "url": "https://www.jumbo.com.ar/perfumeria/farmacia/preservativos"
+                        },
+                        {
+                            "nombre": "Otros",
+                            "url": "https://www.jumbo.com.ar/perfumeria/farmacia/otros"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "nombre": "Limpieza",
+            "url": "https://www.jumbo.com.ar/limpieza",
+            "categorias": [
+                {
+                    "nombre": "Accesorios de Limpieza",
+                    "url": "https://www.jumbo.com.ar/limpieza/accesorios-de-limpieza",
+                    "subcategorias": [
+                        {
+                            "nombre": "Baldes y Mopas",
+                            "url": "https://www.jumbo.com.ar/limpieza/accesorios-de-limpieza/baldes-y-mopas"
+                        },
+                        {
+                            "nombre": "Bolsas",
+                            "url": "https://www.jumbo.com.ar/limpieza/accesorios-de-limpieza/bolsas"
+                        },
+                        {
+                            "nombre": "Broches y Ganchos",
+                            "url": "https://www.jumbo.com.ar/limpieza/accesorios-de-limpieza/broches-y-ganchos"
+                        },
+                        {
+                            "nombre": "Escobas y Escobillones",
+                            "url": "https://www.jumbo.com.ar/limpieza/accesorios-de-limpieza/escobas-y-escobillones"
+                        },
+                        {
+                            "nombre": "Escobillas",
+                            "url": "https://www.jumbo.com.ar/limpieza/accesorios-de-limpieza/escobillas"
+                        },
+                        {
+                            "nombre": "Esponjas y Guantes",
+                            "url": "https://www.jumbo.com.ar/limpieza/accesorios-de-limpieza/esponjas-y-guantes"
+                        },
+                        {
+                            "nombre": "Palas y Cabos",
+                            "url": "https://www.jumbo.com.ar/limpieza/accesorios-de-limpieza/palas-y-cabos"
+                        },
+                        {
+                            "nombre": "Paños Multiusos",
+                            "url": "https://www.jumbo.com.ar/limpieza/accesorios-de-limpieza/panos-multiusos"
+                        },
+                        {
+                            "nombre": "Secadores y Cepillos",
+                            "url": "https://www.jumbo.com.ar/limpieza/accesorios-de-limpieza/secadores-y-cepillos"
+                        },
+                        {
+                            "nombre": "Trapos de Piso",
+                            "url": "https://www.jumbo.com.ar/limpieza/accesorios-de-limpieza/trapos-de-piso"
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Calzado",
+                    "url": "https://www.jumbo.com.ar/limpieza/calzado",
+                    "subcategorias": [
+                        {
+                            "nombre": "Brillos y Revividores",
+                            "url": "https://www.jumbo.com.ar/limpieza/calzado/brillos-y-revividores"
+                        },
+                        {
+                            "nombre": "Limpiadores",
+                            "url": "https://www.jumbo.com.ar/limpieza/calzado/limpiadores"
+                        },
+                        {
+                            "nombre": "Pomadas Para Calzado",
+                            "url": "https://www.jumbo.com.ar/limpieza/calzado/pomadas-para-calzado"
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Desodorantes de Ambiente",
+                    "url": "https://www.jumbo.com.ar/limpieza/desodorantes-de-ambiente",
+                    "subcategorias": [
+                        {
+                            "nombre": "Absorbe Humedad",
+                            "url": "https://www.jumbo.com.ar/limpieza/desodorantes-de-ambiente/absorbe-humedad"
+                        },
+                        {
+                            "nombre": "Aromatizantes",
+                            "url": "https://www.jumbo.com.ar/limpieza/desodorantes-de-ambiente/aromatizantes"
+                        },
+                        {
+                            "nombre": "Desodorantes y Desinfectantes",
+                            "url": "https://www.jumbo.com.ar/limpieza/desodorantes-de-ambiente/desodorantes-y-desinfectantes"
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Insecticidas",
+                    "url": "https://www.jumbo.com.ar/limpieza/insecticidas",
+                    "subcategorias": [
+                        {
+                            "nombre": "Aerosoles",
+                            "url": "https://www.jumbo.com.ar/limpieza/insecticidas/aerosoles"
+                        },
+                        {
+                            "nombre": "Aparatos",
+                            "url": "https://www.jumbo.com.ar/limpieza/insecticidas/aparatos"
+                        },
+                        {
+                            "nombre": "Cebos, Bolillas y Pastillas",
+                            "url": "https://www.jumbo.com.ar/limpieza/insecticidas/cebos-bolillas-y-pastillas"
+                        },
+                        {
+                            "nombre": "Escobas y Escobillones",
+                            "url": "https://www.jumbo.com.ar/limpieza/insecticidas/repelentes"
+                        },
+                        {
+                            "nombre": "Repelentes",
+                            "url": "https://www.jumbo.com.ar/limpieza/insecticidas/repelentes"
+                        },
+                        {
+                            "nombre": "Tabletas y Difusores",
+                            "url": "https://www.jumbo.com.ar/limpieza/insecticidas/tabletas-y-difusores"
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Lavandina",
+                    "url": "https://www.jumbo.com.ar/limpieza/lavandina",
+                    "subcategorias": []
+                },
+                {
+                    "nombre": "Limpieza de Baño",
+                    "url": "https://www.jumbo.com.ar/limpieza/limpieza-de-bano",
+                    "subcategorias": [
+                        {
+                            "nombre": "Desinfectantes",
+                            "url": "https://www.jumbo.com.ar/limpieza/limpieza-de-bano/desinfectantes"
+                        },
+                        {
+                            "nombre": "Destapa Cañerías",
+                            "url": "https://www.jumbo.com.ar/limpieza/limpieza-de-bano/destapa-canerias"
+                        },
+                        {
+                            "nombre": "Pastillas y Bloques",
+                            "url": "https://www.jumbo.com.ar/limpieza/limpieza-de-bano/pastillas-y-bloques"
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Cuidado Para La Ropa",
+                    "url": "https://www.jumbo.com.ar/limpieza/cuidado-para-la-ropa",
+                    "subcategorias": [
+                        {
+                            "nombre": "Aprestos y Blanqueadores",
+                            "url": "https://www.jumbo.com.ar/limpieza/cuidado-para-la-ropa/aprestos-y-blanqueadores"
+                        },
+                        {
+                            "nombre": "Cepillo Para Ropa",
+                            "url": "https://www.jumbo.com.ar/limpieza/cuidado-para-la-ropa/cepillo-para-ropa"
+                        },
+                        {
+                            "nombre": "Jabón en Pan",
+                            "url": "https://www.jumbo.com.ar/limpieza/cuidado-para-la-ropa/jabon-en-pan"
+                        },
+                        {
+                            "nombre": "Detergente Para Ropa",
+                            "url": "https://www.jumbo.com.ar/limpieza/cuidado-para-la-ropa/detergente-para-ropa"
+                        },
+                        {
+                            "nombre": "Quitamanchas",
+                            "url": "https://www.jumbo.com.ar/limpieza/cuidado-para-la-ropa/quitamanchas"
+                        },
+                        {
+                            "nombre": "Suavizantes",
+                            "url": "https://www.jumbo.com.ar/limpieza/cuidado-para-la-ropa/suavizantes"
+                        },
+                        {
+                            "nombre": "Perfumantes",
+                            "url": "https://www.jumbo.com.ar/limpieza/cuidado-para-la-ropa/perfumantes"
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Limpieza de Cocina",
+                    "url": "https://www.jumbo.com.ar/limpieza/limpieza-de-cocina",
+                    "subcategorias": [
+                        {
+                            "nombre": "Detergentes",
+                            "url": "https://www.jumbo.com.ar/limpieza/limpieza-de-cocina/detergentes"
+                        },
+                        {
+                            "nombre": "Escarbadientes",
+                            "url": "https://www.jumbo.com.ar/limpieza/limpieza-de-cocina/escarbadientes"
+                        },
+                        {
+                            "nombre": "Fósforos",
+                            "url": "https://www.jumbo.com.ar/limpieza/limpieza-de-cocina/fosforos"
+                        },
+                        {
+                            "nombre": "Limpiadores",
+                            "url": "https://www.jumbo.com.ar/limpieza/limpieza-de-cocina/limpiadores"
+                        },
+                        {
+                            "nombre": "Limpiavidrios",
+                            "url": "https://www.jumbo.com.ar/limpieza/limpieza-de-cocina/limpiavidrios"
+                        },
+                        {
+                            "nombre": "Productos Para Lavavajillas",
+                            "url": "https://www.jumbo.com.ar/limpieza/limpieza-de-cocina/productos-para-lavavajillas"
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Limpieza de Pisos y Muebles",
+                    "url": "https://www.jumbo.com.ar/limpieza/limpieza-de-pisos-y-muebles",
+                    "subcategorias": [
+                        {
+                            "nombre": "Ceras y Autobrillos",
+                            "url": "https://www.jumbo.com.ar/limpieza/limpieza-de-pisos-y-muebles/ceras-y-autobrillos"
+                        },
+                        {
+                            "nombre": "Limpiadores de Pisos",
+                            "url": "https://www.jumbo.com.ar/limpieza/limpieza-de-pisos-y-muebles/limpiadores-de-pisos"
+                        },
+                        {
+                            "nombre": "Lustramuebles",
+                            "url": "https://www.jumbo.com.ar/limpieza/limpieza-de-pisos-y-muebles/lustramuebles"
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Papeles",
+                    "url": "https://www.jumbo.com.ar/limpieza/papeles",
+                    "subcategorias": [
+                        {
+                            "nombre": "Pañuelos",
+                            "url": "https://www.jumbo.com.ar/limpieza/papeles/panuelos"
+                        },
+                        {
+                            "nombre": "Papel Higiénico",
+                            "url": "https://www.jumbo.com.ar/limpieza/papeles/papel-higienico"
+                        },
+                        {
+                            "nombre": "Rollos de Cocina",
+                            "url": "https://www.jumbo.com.ar/limpieza/papeles/rollos-de-cocina"
+                        },
+                        {
+                            "nombre": "Servilletas",
+                            "url": "https://www.jumbo.com.ar/limpieza/papeles/servilletas"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "nombre": "Mascotas",
+            "url": "https://www.jumbo.com.ar/mascotas",
+            "categorias": [
+                {
+                    "nombre": "Accesorios para Mascotas",
+                    "url": "https://www.jumbo.com.ar/Mascotas/Accesorios-para-Mascotas",
+                    "subcategorias": []
+                },
+                {
+                    "nombre": "Gatos",
+                    "url": "https://www.jumbo.com.ar/Mascotas/Gatos",
+                    "subcategorias": [
+                        {
+                            "nombre": "Secos",
+                            "url": "https://www.jumbo.com.ar/mascotas/gatos/secos"
+                        },
+                        {
+                            "nombre": "Húmedos",
+                            "url": "https://www.jumbo.com.ar/mascotas/gatos/humedos"
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Perros",
+                    "url": "https://www.jumbo.com.ar/Mascotas/Perros",
+                    "subcategorias": [
+                        {
+                            "nombre": "Secos",
+                            "url": "https://www.jumbo.com.ar/mascotas/perros/secos"
+                        },
+                        {
+                            "nombre": "Húmedos",
+                            "url": "https://www.jumbo.com.ar/mascotas/perros/humedos"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
