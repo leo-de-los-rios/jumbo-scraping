@@ -57,6 +57,90 @@
             "url": "https://www.jumbo.com.ar/aire-acondicionado-split-inverter-3200w-2752f-frio-calor-hyundai/p"
         },
         {
+            "nombre": "Aire Acondicionado Inverter 5000w- 4300f- Frio/calor Nex",
+            "SKU": "SKU-DUMMY",
+            "precio_lista": 1399999.0,
+            "precio_final": 1259999.1,
+            "url": "https://www.jumbo.com.ar/aire-acondicionado-inverter-5000w-4300f-frio-calor-nex/p"
+        },
+        {
+            "nombre": "Enfriador De Aire 8,0 Lts 3 En 1 Nex",
+            "SKU": "SKU-DUMMY",
+            "precio_lista": 169999.0,
+            "precio_final": 144499.15,
+            "url": "https://www.jumbo.com.ar/enfriador-de-aire-8-0-lts-3-en-1-nex/p"
+        },
+        {
+            "nombre": "Aire Acondicionado Split Inverter- 3532w-2967f- Frio/calor Carrier",
+            "SKU": "SKU-DUMMY",
+            "precio_lista": 1169999.0,
+            "precio_final": 994499.15,
+            "url": "https://www.jumbo.com.ar/aire-acondicionado-split-inverter-3532w-2967f-frio-calor-carrier/p"
+        },
+        {
+            "nombre": "Aire Acondicionado Split Inverter - 2804w- 2356f- Frio/calor Surrey",
+            "SKU": "SKU-DUMMY",
+            "precio_lista": 1215999.0,
+            "precio_final": 1033599.15,
+            "url": "https://www.jumbo.com.ar/aire-acondicionado-split-inverter-2804w-2356f-frio-calor-surrey/p"
+        },
+        {
+            "nombre": "Aire Acondicionado On/off 3511w-2950f - Frio/calor - Msagic-18h-01f Midea",
+            "SKU": "SKU-DUMMY",
+            "precio_lista": 989999.0,
+            "precio_final": 841499.15,
+            "url": "https://www.jumbo.com.ar/aire-acondicionado-on-off-3511w-2950f-frio-calor-msagic-18h-01f-midea/p"
+        },
+        {
+            "nombre": "Aire Acondicionado On/off -2795w-2348f- Frio/calor Midea",
+            "SKU": "SKU-DUMMY",
+            "precio_lista": 899999.0,
+            "precio_final": 764999.15,
+            "url": "https://www.jumbo.com.ar/aire-acondicionado-on-off-2795w-2348f-frio-calor-midea/p"
+        },
+        {
+            "nombre": "Aire Acondicionado Inverter - 5238w-4400f- Frio/calor Carrier",
+            "SKU": "SKU-DUMMY",
+            "precio_lista": 1799999.0,
+            "precio_final": 1529999.15,
+            "url": "https://www.jumbo.com.ar/aire-acondicionado-inverter-5238w-4400f-frio-calor-carrier/p"
+        },
+        {
+            "nombre": "Aire Acondionado Samsung In 3430w Ar12ashqawkzbg",
+            "SKU": "SKU-DUMMY",
+            "precio_lista": 1389999.0,
+            "precio_final": 1181499.15,
+            "url": "https://www.jumbo.com.ar/aire-acondionado-samsung-in-3430w-ar12ashqawkzbg/p"
+        },
+        {
+            "nombre": "Aire Acondicionado On/off 5000w-4300f- Frio/calor Nex",
+            "SKU": "SKU-DUMMY",
+            "precio_lista": 1299999.0,
+            "precio_final": 1169999.1,
+            "url": "https://www.jumbo.com.ar/aire-acondicionado-on-off-5000w-4300f-frio-calor-nex/p"
+        },
+        {
+            "nombre": "Aire Acondicionado On-off 5500w-4730f-frio/calor- Bgh",
+            "SKU": "SKU-DUMMY",
+            "precio_lista": 1980000.0,
+            "precio_final": 1683000.0,
+            "url": "https://www.jumbo.com.ar/aire-acondicionado-on-off-5500w-4730f-frio-calor-bgh/p"
+        },
+        {
+            "nombre": "Aire Acondicionado Samsung 4500w-3870f - Frio/calor - Inverter - Ar18bshqawk2bg",
+            "SKU": "SKU-DUMMY",
+            "precio_lista": 1899999.0,
+            "precio_final": 1614999.15,
+            "url": "https://www.jumbo.com.ar/aire-acondicionado-samsung-4500w-3870f-frio-calor-inverter-ar18bshqawk2bg/p"
+        },
+        {
+            "nombre": "Aire Acondicionado Split On/off 2580f-3000w -frio/calor- Bs35wccr Bgh",
+            "SKU": "SKU-DUMMY",
+            "precio_lista": 1049999.0,
+            "precio_final": 892499.15,
+            "url": "https://www.jumbo.com.ar/aire-acondicionado-split-on-off-2580f-3000w-frio-calor-bs35wccr-bgh/p"
+        },
+        {
             "nombre": "Ventilador De Pie 16\" Modelo Axpie16 Axel",
             "SKU": "SKU-DUMMY",
             "precio_lista": 79999.0,
@@ -92,13 +176,6 @@
             "url": "https://www.jumbo.com.ar/turboventilador-deco-iv-indelplas-d12-verde/p"
         },
         {
-            "nombre": "Ventilador De Techo Metal Blanco 3014 Protalia",
-            "SKU": "SKU-DUMMY",
-            "precio_lista": 119999.0,
-            "precio_final": 95999.2,
-            "url": "https://www.jumbo.com.ar/ventilador-de-techo-metal-blanco-3014-protalia/p"
-        },
-        {
             "nombre": "Ventilador Turbo Axel 20\" Blanco Axpie20ble",
             "SKU": "SKU-DUMMY",
             "precio_lista": 109899.0,
@@ -106,11 +183,74 @@
             "url": "https://www.jumbo.com.ar/ventilador-turbo-axel-20-blanco-axpie20ble/p"
         },
         {
+            "nombre": "Ventilador De Techo Metal Blanco 3014 Protalia",
+            "SKU": "SKU-DUMMY",
+            "precio_lista": 119999.0,
+            "precio_final": 95999.2,
+            "url": "https://www.jumbo.com.ar/ventilador-de-techo-metal-blanco-3014-protalia/p"
+        },
+        {
             "nombre": "Ventilador Pie Vpa-318 80w 3v Tivoli",
             "SKU": "SKU-DUMMY",
             "precio_lista": 106499.0,
             "precio_final": 85199.2,
             "url": "https://www.jumbo.com.ar/ventilador-pie-vpa-318-80w-3v-tivoli/p"
+        },
+        {
+            "nombre": "Ventilador Pie 20\" Blanco Eco Axel",
+            "SKU": "SKU-DUMMY",
+            "precio_lista": 109999.0,
+            "precio_final": 87999.2,
+            "url": "https://www.jumbo.com.ar/ventilador-pie-20-blanco-eco-axel/p"
+        },
+        {
+            "nombre": "Ventilador Industrial De Pared De 25 Pulgadas",
+            "SKU": "SKU-DUMMY",
+            "precio_lista": 139999.0,
+            "precio_final": 111999.2,
+            "url": "https://www.jumbo.com.ar/ventilador-industrial-de-pared-de-25-pulgadas/p"
+        },
+        {
+            "nombre": "Ventilador De Pared V11 20” Con Control Remoto Crivel",
+            "SKU": "SKU-DUMMY",
+            "precio_lista": 108999.0,
+            "precio_final": 87199.2,
+            "url": "https://www.jumbo.com.ar/ventilador-de-pared-v11-20-con-control-remoto-crivel/p"
+        },
+        {
+            "nombre": "Ventilador De Pie 20\" Metalico Crivel",
+            "SKU": "SKU-DUMMY",
+            "precio_lista": 107999.0,
+            "precio_final": 86399.2,
+            "url": "https://www.jumbo.com.ar/ventilador-de-pie-20-metalico-crivel/p"
+        },
+        {
+            "nombre": "Ventilador Potencia 60w 18 Vpd1862n Peabody",
+            "SKU": "SKU-DUMMY",
+            "precio_lista": 109999.0,
+            "precio_final": 87999.2,
+            "url": "https://www.jumbo.com.ar/ventilador-potencia-60w-18-vpd1862n-peabody/p"
+        },
+        {
+            "nombre": "Ventilador Turbo 16\" Mod. Ax-ture16 Axel",
+            "SKU": "SKU-DUMMY",
+            "precio_lista": 65999.0,
+            "precio_final": 52799.2,
+            "url": "https://www.jumbo.com.ar/ventilador-turbo-16-mod-ax-ture16-axel/p"
+        },
+        {
+            "nombre": "Ventilador Turbo De 14 Pul Lusqtoff",
+            "SKU": "SKU-DUMMY",
+            "precio_lista": 48999.0,
+            "precio_final": 39199.2,
+            "url": "https://www.jumbo.com.ar/ventilador-turbo-de-14-pul-lusqtoff/p"
+        },
+        {
+            "nombre": "Turbo Ventilador 20\" Ivi20 Indelplas",
+            "SKU": "SKU-DUMMY",
+            "precio_lista": 95999.0,
+            "precio_final": 76799.2,
+            "url": "https://www.jumbo.com.ar/turbo-ventilador-20-ivi20-indelplas/p"
         },
         {
             "nombre": "Torre Sonido Aiwa Bluetooth Aw-t2008-pb",
@@ -169,6 +309,90 @@
             "url": "https://www.jumbo.com.ar/auricular-aiwa-vincha-blanco-ava-bt301b/p"
         },
         {
+            "nombre": "Auricular Vincha Negro Ava-bt301n Aiwa",
+            "SKU": "SKU-DUMMY",
+            "precio_lista": 52999.0,
+            "precio_final": 52999.0,
+            "url": "https://www.jumbo.com.ar/auricular-vincha-negro-ava-bt301n-aiwa/p"
+        },
+        {
+            "nombre": "Barra De Sonido B-series B555",
+            "SKU": "SKU-DUMMY",
+            "precio_lista": 699999.0,
+            "precio_final": 399999.0,
+            "url": "https://www.jumbo.com.ar/barra-de-sonido-b-series-b555/p"
+        },
+        {
+            "nombre": "Parlante Tower 94tp6500 Philco",
+            "SKU": "SKU-DUMMY",
+            "precio_lista": 283499.0,
+            "precio_final": 255149.1,
+            "url": "https://www.jumbo.com.ar/parlante-tower-94tp6500-philco/p"
+        },
+        {
+            "nombre": "Audifono Bt On Ear Bt Blanco Nex",
+            "SKU": "SKU-DUMMY",
+            "precio_lista": 29999.0,
+            "precio_final": 29999.0,
+            "url": "https://www.jumbo.com.ar/audifono-bt-on-ear-bt-blanco-nex/p"
+        },
+        {
+            "nombre": "Parlante Tower 94mnt2x Noblex",
+            "SKU": "SKU-DUMMY",
+            "precio_lista": 399999.0,
+            "precio_final": 359999.1,
+            "url": "https://www.jumbo.com.ar/parlante-tower-94mnt2x-noblex/p"
+        },
+        {
+            "nombre": "Audifono Tws 5.0 Color Nex",
+            "SKU": "SKU-DUMMY",
+            "precio_lista": 29999.0,
+            "precio_final": 29999.0,
+            "url": "https://www.jumbo.com.ar/audifono-tws-5-0-color-nex/p"
+        },
+        {
+            "nombre": "Parlante Lumos Stromberg",
+            "SKU": "SKU-DUMMY",
+            "precio_lista": 299018.38,
+            "precio_final": 269116.54,
+            "url": "https://www.jumbo.com.ar/parlante-lumos-stromberg/p"
+        },
+        {
+            "nombre": "Parlante Vibe Stromberg",
+            "SKU": "SKU-DUMMY",
+            "precio_lista": 492645.84,
+            "precio_final": 443381.26,
+            "url": "https://www.jumbo.com.ar/parlante-vibe-stromberg/p"
+        },
+        {
+            "nombre": "Parlante Spark Stromberg",
+            "SKU": "SKU-DUMMY",
+            "precio_lista": 69999.0,
+            "precio_final": 62999.1,
+            "url": "https://www.jumbo.com.ar/parlante-stromberg-spark/p"
+        },
+        {
+            "nombre": "Parlante Xboom Go Pl5 Lg",
+            "SKU": "SKU-DUMMY",
+            "precio_lista": 249999.0,
+            "precio_final": 224999.1,
+            "url": "https://www.jumbo.com.ar/parlante-lg-xboom-go-pl5/p"
+        },
+        {
+            "nombre": "Audifonos In Ear Con Mic Tipo C Nex",
+            "SKU": "SKU-DUMMY",
+            "precio_lista": 9999.0,
+            "precio_final": 7999.2,
+            "url": "https://www.jumbo.com.ar/audifonos-in-ear-con-mic-tipo-c-nex/p"
+        },
+        {
+            "nombre": "Torre Sonido Bluetooth Aw-t2303 Aiwa",
+            "SKU": "SKU-DUMMY",
+            "precio_lista": 704999.0,
+            "precio_final": 704999.0,
+            "url": "https://www.jumbo.com.ar/torre-sonido-bluetooth-aiwa-aw-t2303/p"
+        },
+        {
             "nombre": "Caloventor Axel Con Timer Ax-ca 2 Potencias 2000 W",
             "SKU": "SKU-DUMMY",
             "precio_lista": 38999.0,
@@ -223,6 +447,55 @@
             "precio_lista": 48999.0,
             "precio_final": 48999.0,
             "url": "https://www.jumbo.com.ar/caloventor-vertical-pioneer-2000-w/p"
+        },
+        {
+            "nombre": "Estufa Sin Salida 4024gon Orbis",
+            "SKU": "SKU-DUMMY",
+            "precio_lista": 249999.0,
+            "precio_final": 249999.0,
+            "url": "https://www.jumbo.com.ar/estufa-orbis-sin-salida-4024gon/p"
+        },
+        {
+            "nombre": "Estufa Infrarroja Hn16 Negra 1600 W Nex",
+            "SKU": "SKU-DUMMY",
+            "precio_lista": 65999.0,
+            "precio_final": 65999.0,
+            "url": "https://www.jumbo.com.ar/estufa-infrarroja-hn16-negra-1600-w-nex/p"
+        },
+        {
+            "nombre": "Caloventor Vertical Pioneer",
+            "SKU": "SKU-DUMMY",
+            "precio_lista": 44999.0,
+            "precio_final": 44999.0,
+            "url": "https://www.jumbo.com.ar/caloventor-vertical-pioneer-de-1000w-a-2000w/p"
+        },
+        {
+            "nombre": "Calefactor Tiraje Balanceado 4126gon Gris Orbis",
+            "SKU": "SKU-DUMMY",
+            "precio_lista": 320699.0,
+            "precio_final": 320699.0,
+            "url": "https://www.jumbo.com.ar/calefactor-tiraje-balanceado-4126gon-gris-orbis/p"
+        },
+        {
+            "nombre": "Calefactor Tiraje Balanceado 4146gon Gris Orbis",
+            "SKU": "SKU-DUMMY",
+            "precio_lista": 360765.0,
+            "precio_final": 360765.0,
+            "url": "https://www.jumbo.com.ar/calefactor-tiraje-balanceado-4146gon-gris-orbis/p"
+        },
+        {
+            "nombre": "Calefactor Tiraje Balanceado 4166gon Gris Orbis",
+            "SKU": "SKU-DUMMY",
+            "precio_lista": 420349.0,
+            "precio_final": 420349.0,
+            "url": "https://www.jumbo.com.ar/calefactor-tiraje-balanceado-4166gon-gris-orbis/p"
+        },
+        {
+            "nombre": "Caloventor Ax-ca100 Blanco 1900 W Axel",
+            "SKU": "SKU-DUMMY",
+            "precio_lista": 44999.0,
+            "precio_final": 44999.0,
+            "url": "https://www.jumbo.com.ar/caloventor-ax-ca100-blanco-1900-w-axel/p"
         },
         {
             "nombre": "Calefon 14 L/min 315kson Blanco Orbis",
@@ -309,6 +582,48 @@
             "url": "https://www.jumbo.com.ar/termotanque-gas-natural-zafiro-120-l-senorial/p"
         },
         {
+            "nombre": "Termotanque Gas Tpgp120msh13 120 L Sherman",
+            "SKU": "SKU-DUMMY",
+            "precio_lista": 428630.0,
+            "precio_final": 385767.0,
+            "url": "https://www.jumbo.com.ar/termotanque-gas-tpgp120msh13-120-l-sherman/p"
+        },
+        {
+            "nombre": "Termotanque Tpg080 80 L Saiar",
+            "SKU": "SKU-DUMMY",
+            "precio_lista": 469999.0,
+            "precio_final": 422999.1,
+            "url": "https://www.jumbo.com.ar/termotanque-tpg080-80-l-saiar/p"
+        },
+        {
+            "nombre": "Termotanque Gas Natural 120 L tgnp120rh Rheem",
+            "SKU": "SKU-DUMMY",
+            "precio_lista": 745429.0,
+            "precio_final": 670886.1,
+            "url": "https://www.jumbo.com.ar/termotanque-gas-natural-120-l-tgnp120rh-rheem/p"
+        },
+        {
+            "nombre": "Termotanque Eléctrico 55 L Tecc055eshk2 De Colgar Sherman",
+            "SKU": "SKU-DUMMY",
+            "precio_lista": 351989.0,
+            "precio_final": 316790.1,
+            "url": "https://www.jumbo.com.ar/termotanque-electrico-55-l-tecc055eshk2-de-colgar-sherman/p"
+        },
+        {
+            "nombre": "Termotanque Electrico 85 Lt Colgante Tecc085eshk2 Sherman",
+            "SKU": "SKU-DUMMY",
+            "precio_lista": 381555.0,
+            "precio_final": 343399.5,
+            "url": "https://www.jumbo.com.ar/termotanque-electrico-85-lt-colgante-tecc085eshk2-sherman/p"
+        },
+        {
+            "nombre": "Termotanque Alta Potencia Rheem",
+            "SKU": "SKU-DUMMY",
+            "precio_lista": 999999.0,
+            "precio_final": 899999.1,
+            "url": "https://www.jumbo.com.ar/termotanque-alta-potencia-rheem/p"
+        },
+        {
             "nombre": "Combo Candy",
             "SKU": "SKU-DUMMY",
             "precio_lista": 1599999.0,
@@ -379,298 +694,88 @@
             "url": "https://www.jumbo.com.ar/cocina-orbis-macrovision-858bc4-blanca/p"
         },
         {
-            "nombre": "Horno Anafe Pci27xch64ccba Candy",
+            "nombre": "Cocina A Gas Whirlpool De 50.",
             "SKU": "SKU-DUMMY",
-            "precio_lista": 1499999.0,
-            "precio_final": 1349999.1,
-            "url": "https://www.jumbo.com.ar/horno-anafe-pci27xch64ccba-candy/p"
+            "precio_lista": 819999.0,
+            "precio_final": 696999.15,
+            "url": "https://www.jumbo.com.ar/cocina-a-gas-whirlpool-de-50/p"
         },
         {
-            "nombre": "Horno Eléctrico Empotrable Pirolítico Con Air Fryer Vondom",
+            "nombre": "Cocina 56cm Cbupv Blanca Domec",
             "SKU": "SKU-DUMMY",
-            "precio_lista": 1295000.0,
-            "precio_final": 1165500.0,
-            "url": "https://www.jumbo.com.ar/horno-electrico-empotrable-pirolitico-con-air-fryer-vondom/p"
+            "precio_lista": 666719.0,
+            "precio_final": 600047.1,
+            "url": "https://www.jumbo.com.ar/cocina-domec-56cm-cbupv-blanca/p"
         },
         {
-            "nombre": "Horno Eléctrico Empotrable 60 Cm Tnc60enbs Vondom",
+            "nombre": "Cocina 56cm Cbuplev Blanca Domec",
             "SKU": "SKU-DUMMY",
-            "precio_lista": 980000.0,
-            "precio_final": 882000.0,
-            "url": "https://www.jumbo.com.ar/horno-electrico-empotrable-60-cm-tnc60enbs-vondom/p"
+            "precio_lista": 762875.0,
+            "precio_final": 686587.5,
+            "url": "https://www.jumbo.com.ar/cocina-domec-56cm-cbuplev-blanca/p"
         },
         {
-            "nombre": "Horno Eléctrico Empotrable 90 Cm 133 L Tnc90 Vondom",
+            "nombre": "Cocina Inoxidable Multigas Wfx57dw 56cm Whirlpool",
             "SKU": "SKU-DUMMY",
-            "precio_lista": 2595000.0,
-            "precio_final": 2335500.0,
-            "url": "https://www.jumbo.com.ar/horno-electrico-empotrable-90-cm-133-l-tnc90-vondom/p"
+            "precio_lista": 869999.0,
+            "precio_final": 782999.1,
+            "url": "https://www.jumbo.com.ar/cocina-inoxidable-whirlpool-multigas-wfx57dw-56cm/p"
         },
         {
-            "nombre": "Horno Electrico Akzm656ix Inox Whirlpool",
+            "nombre": "Cocina 55cm Blanca Cd5502ab Drean",
             "SKU": "SKU-DUMMY",
-            "precio_lista": 1539999.0,
-            "precio_final": 1385999.1,
-            "url": "https://www.jumbo.com.ar/horno-electrico-whirlpool-akzm656ix-inox/p"
+            "precio_lista": 649999.0,
+            "precio_final": 552499.15,
+            "url": "https://www.jumbo.com.ar/cocina-drean-55cm-blanca-cd5502ab/p"
         },
         {
-            "nombre": "Microondas B120m20 20 L Bgh",
+            "nombre": "Cocina Multigas Wfb57di Blanca 56 Cm Whirlpool",
             "SKU": "SKU-DUMMY",
-            "precio_lista": 249999.0,
-            "precio_final": 212499.15,
-            "url": "https://www.jumbo.com.ar/microondas-b120m20-20-l-bgh/p"
+            "precio_lista": 919999.0,
+            "precio_final": 827999.1,
+            "url": "https://www.jumbo.com.ar/cocina-multigas-whirlpool-wfb57di-blanca-56-cm/p"
         },
         {
-            "nombre": "Microondas 20l Digital Negro Bgh",
+            "nombre": "Cocina Blanca 5546 Florencia",
             "SKU": "SKU-DUMMY",
-            "precio_lista": 289999.0,
-            "precio_final": 231999.2,
-            "url": "https://www.jumbo.com.ar/microondas-20l-digital-negro-bgh/p"
+            "precio_lista": 809999.0,
+            "precio_final": 728999.1,
+            "url": "https://www.jumbo.com.ar/cocina-blanca-florencia-5546/p"
         },
         {
-            "nombre": "Microondas Samsung Grill",
+            "nombre": "Cocina 56cm Cxuplev Inox Domec",
             "SKU": "SKU-DUMMY",
-            "precio_lista": 339499.0,
-            "precio_final": 339499.0,
-            "url": "https://www.jumbo.com.ar/microondas-samsung-grill/p"
+            "precio_lista": 836769.0,
+            "precio_final": 753092.1,
+            "url": "https://www.jumbo.com.ar/cocina-domec-56cm-cxuplev-inox/p"
         },
         {
-            "nombre": "Microondas Digital B120ds20 Bgh",
+            "nombre": "Cocina A Gas De 50 Cm Whirlpool",
             "SKU": "SKU-DUMMY",
-            "precio_lista": 304185.0,
-            "precio_final": 243348.0,
-            "url": "https://www.jumbo.com.ar/microondas-digital-b120ds20-bgh/p"
+            "precio_lista": 769999.0,
+            "precio_final": 769999.0,
+            "url": "https://www.jumbo.com.ar/cocina-a-gas-whirlpool-de-50-cm-2/p"
         },
         {
-            "nombre": "Microondas Grill Samsung",
+            "nombre": "Cocina Electrica Integral Philco Blanca 50cm",
             "SKU": "SKU-DUMMY",
-            "precio_lista": 326499.0,
-            "precio_final": 326499.0,
-            "url": "https://www.jumbo.com.ar/microondas-samsung-grill-2/p"
+            "precio_lista": 649999.0,
+            "precio_final": 649999.0,
+            "url": "https://www.jumbo.com.ar/cocina-electrica-integral-philco-blanca-50cm/p"
         },
         {
-            "nombre": "Microondas Rotativo Negro Atma 20 L",
+            "nombre": "Cocina Multigas Atma Negra 56 Cm",
             "SKU": "SKU-DUMMY",
-            "precio_lista": 199859.0,
-            "precio_final": 179873.1,
-            "url": "https://www.jumbo.com.ar/microondas-rotativo-negro-atma-20-l/p"
+            "precio_lista": 835999.0,
+            "precio_final": 835999.0,
+            "url": "https://www.jumbo.com.ar/cocina-multigas-atma-negra-56-cm/p"
         },
         {
-            "nombre": "Microondas Digital B228dn20 28 L Bgh",
+            "nombre": "Cocina De Acero Inoxidable Orbis 55 Cm",
             "SKU": "SKU-DUMMY",
-            "precio_lista": 394999.0,
-            "precio_final": 315999.2,
-            "url": "https://www.jumbo.com.ar/microondas-digital-b228dn20-28-l-bgh/p"
-        },
-        {
-            "nombre": "Microondas Monofuncion Digital B120db9 20 L Bgh",
-            "SKU": "SKU-DUMMY",
-            "precio_lista": 276445.0,
-            "precio_final": 221156.0,
-            "url": "https://www.jumbo.com.ar/microondas-monofuncion-digital-b120db9-20-l-bgh/p"
-        },
-        {
-            "nombre": "Purificador Ax750 3 Velocidades Nex",
-            "SKU": "SKU-DUMMY",
-            "precio_lista": 149999.0,
-            "precio_final": 134999.1,
-            "url": "https://www.jumbo.com.ar/purificador-ax750-3-velocidades-nex/p"
-        },
-        {
-            "nombre": "Purificador Nex 3 Velocidaddes B-ax750 Blanco",
-            "SKU": "SKU-DUMMY",
-            "precio_lista": 129999.0,
-            "precio_final": 116999.1,
-            "url": "https://www.jumbo.com.ar/purificador-nex-3-velocidaddes-b-ax750-blanco/p"
-        },
-        {
-            "nombre": "Purificador Wab60bb Whirlpool",
-            "SKU": "SKU-DUMMY",
-            "precio_lista": 399999.0,
-            "precio_final": 339999.15,
-            "url": "https://www.jumbo.com.ar/purificador-whirlpool-wab60bb/p"
-        },
-        {
-            "nombre": "Purificador Eab60bb/c Eslabon De Lujo",
-            "SKU": "SKU-DUMMY",
-            "precio_lista": 349999.0,
-            "precio_final": 297499.15,
-            "url": "https://www.jumbo.com.ar/purificador-eslabon-de-lujo-eab60bb-c/p"
-        },
-        {
-            "nombre": "Purificador Con Salida Wab60bx 400 M3 Whirlpool",
-            "SKU": "SKU-DUMMY",
-            "precio_lista": 479999.0,
-            "precio_final": 431999.1,
-            "url": "https://www.jumbo.com.ar/purificador-con-salida-whirlpool-wab60bx-400-m3/p"
-        },
-        {
-            "nombre": "Consola Ps5 Slim Standard Super Bundle Sony",
-            "SKU": "SKU-DUMMY",
-            "precio_lista": 1499999.0,
-            "precio_final": 1499999.0,
-            "url": "https://www.jumbo.com.ar/consola-ps5-slim-standard-super-bundle-sony/p"
-        },
-        {
-            "nombre": "Joystick Ps5 Dualsense White Sony",
-            "SKU": "SKU-DUMMY",
-            "precio_lista": 146999.0,
-            "precio_final": 146999.0,
-            "url": "https://www.jumbo.com.ar/joystick-ps5-dualsense-white-sony/p"
-        },
-        {
-            "nombre": "Joystick Ps5 Dualsense Starlight Blue Sony",
-            "SKU": "SKU-DUMMY",
-            "precio_lista": 157999.0,
-            "precio_final": 157999.0,
-            "url": "https://www.jumbo.com.ar/joystick-ps5-dualsense-starlight-blue-sony/p"
-        },
-        {
-            "nombre": "Silla Gamer Constrictor Monensis Alta Resisten",
-            "SKU": "SKU-DUMMY",
-            "precio_lista": 379999.0,
-            "precio_final": 379999.0,
-            "url": "https://www.jumbo.com.ar/silla-gamer-constrictor-monensis-alta-resisten-2/p"
-        },
-        {
-            "nombre": "Juego Ps5 Uncharted Legacy Of Thieves Collecti Playstation",
-            "SKU": "SKU-DUMMY",
-            "precio_lista": 150999.0,
-            "precio_final": 150999.0,
-            "url": "https://www.jumbo.com.ar/juego-ps5-uncharted-legacy-of-thieves-collecti/p"
-        },
-        {
-            "nombre": "Juego Ps5 Spider-man Miles Morales Playstation",
-            "SKU": "SKU-DUMMY",
-            "precio_lista": 106999.0,
-            "precio_final": 106999.0,
-            "url": "https://www.jumbo.com.ar/juego-ps5-spider-man-miles-morales/p"
-        },
-        {
-            "nombre": "Juego Ps5 Ratchet & Clank Rift Apart Playstation",
-            "SKU": "SKU-DUMMY",
-            "precio_lista": 150999.0,
-            "precio_final": 150999.0,
-            "url": "https://www.jumbo.com.ar/juego-ps5-ratchet-clank-rift-apart/p"
-        },
-        {
-            "nombre": "Mouse Gaming G203 Lightsync Negro",
-            "SKU": "SKU-DUMMY",
-            "precio_lista": 41999.0,
-            "precio_final": 37799.1,
-            "url": "https://www.jumbo.com.ar/mouse-gaming-g203-lightsync-negro/p"
-        },
-        {
-            "nombre": "Consola Ps5 Slim Standard Super Bundle Sony",
-            "SKU": "SKU-DUMMY",
-            "precio_lista": 1499999.0,
-            "precio_final": 1499999.0,
-            "url": "https://www.jumbo.com.ar/consola-ps5-slim-standard-super-bundle-sony/p"
-        },
-        {
-            "nombre": "Joystick Ps5 Dualsense White Sony",
-            "SKU": "SKU-DUMMY",
-            "precio_lista": 146999.0,
-            "precio_final": 146999.0,
-            "url": "https://www.jumbo.com.ar/joystick-ps5-dualsense-white-sony/p"
-        },
-        {
-            "nombre": "Joystick Ps5 Dualsense Starlight Blue Sony",
-            "SKU": "SKU-DUMMY",
-            "precio_lista": 157999.0,
-            "precio_final": 157999.0,
-            "url": "https://www.jumbo.com.ar/joystick-ps5-dualsense-starlight-blue-sony/p"
-        },
-        {
-            "nombre": "Silla Gamer Constrictor Monensis Alta Resisten",
-            "SKU": "SKU-DUMMY",
-            "precio_lista": 379999.0,
-            "precio_final": 379999.0,
-            "url": "https://www.jumbo.com.ar/silla-gamer-constrictor-monensis-alta-resisten-2/p"
-        },
-        {
-            "nombre": "Juego Ps5 Uncharted Legacy Of Thieves Collecti Playstation",
-            "SKU": "SKU-DUMMY",
-            "precio_lista": 150999.0,
-            "precio_final": 150999.0,
-            "url": "https://www.jumbo.com.ar/juego-ps5-uncharted-legacy-of-thieves-collecti/p"
-        },
-        {
-            "nombre": "Juego Ps5 Spider-man Miles Morales Playstation",
-            "SKU": "SKU-DUMMY",
-            "precio_lista": 106999.0,
-            "precio_final": 106999.0,
-            "url": "https://www.jumbo.com.ar/juego-ps5-spider-man-miles-morales/p"
-        },
-        {
-            "nombre": "Juego Ps5 Ratchet & Clank Rift Apart Playstation",
-            "SKU": "SKU-DUMMY",
-            "precio_lista": 150999.0,
-            "precio_final": 150999.0,
-            "url": "https://www.jumbo.com.ar/juego-ps5-ratchet-clank-rift-apart/p"
-        },
-        {
-            "nombre": "Mouse Gaming G203 Lightsync Negro",
-            "SKU": "SKU-DUMMY",
-            "precio_lista": 41999.0,
-            "precio_final": 37799.1,
-            "url": "https://www.jumbo.com.ar/mouse-gaming-g203-lightsync-negro/p"
-        },
-        {
-            "nombre": "Heladera Rt38k5932sl Silver 382 L Samsung",
-            "SKU": "SKU-DUMMY",
-            "precio_lista": 1574999.0,
-            "precio_final": 1417499.1,
-            "url": "https://www.jumbo.com.ar/heladera-samsung-rt38k5932sl-silver-382-l/p"
-        },
-        {
-            "nombre": "Heladera Con Freezer Rt29k577js8 299 L Silver Samsung",
-            "SKU": "SKU-DUMMY",
-            "precio_lista": 1102999.0,
-            "precio_final": 992699.1,
-            "url": "https://www.jumbo.com.ar/heladera-con-freezer-rt29k577js8-299-l-silver-samsung/p"
-        },
-        {
-            "nombre": "Heladera N/f Whirlpool Wrm39ck Inox 340l",
-            "SKU": "SKU-DUMMY",
-            "precio_lista": 999999.0,
-            "precio_final": 849999.15,
-            "url": "https://www.jumbo.com.ar/heladera-n-f-whirlpool-wrm39ck-inox-340l/p"
-        },
-        {
-            "nombre": "Heladera Inverter Whirlpool Wre44bk 397 L Evox",
-            "SKU": "SKU-DUMMY",
-            "precio_lista": 1799999.0,
-            "precio_final": 1529999.15,
-            "url": "https://www.jumbo.com.ar/heladera-inverter-whirlpool-wre44bk-397-l-evox/p"
-        },
-        {
-            "nombre": "Heladera No Frost Whirlpool 386 L Wrm42hk Inox",
-            "SKU": "SKU-DUMMY",
-            "precio_lista": 1279999.0,
-            "precio_final": 1087999.15,
-            "url": "https://www.jumbo.com.ar/heladera-no-frost-whirlpool-386-l-wrm42hk-inox/p"
-        },
-        {
-            "nombre": "Heladera Con Freezer Blanca Chd43/9 414 L Columbia",
-            "SKU": "SKU-DUMMY",
-            "precio_lista": 974969.0,
-            "precio_final": 877472.1,
-            "url": "https://www.jumbo.com.ar/heladera-columbia-con-freezer-blanca-chd43-9-414-l/p"
-        },
-        {
-            "nombre": "Heladera Samsung No Frost 321 L Inverter Acero Inoxidable.",
-            "SKU": "SKU-DUMMY",
-            "precio_lista": 1234999.0,
-            "precio_final": 1234999.0,
-            "url": "https://www.jumbo.com.ar/heladera-samsung-no-frost-321-l-inverter-acero-inoxidable/p"
-        },
-        {
-            "nombre": "Heladera Drean Nf 250lts Rda250fvrt Silver",
-            "SKU": "SKU-DUMMY",
-            "precio_lista": 795999.0,
-            "precio_final": 716399.1,
-            "url": "https://www.jumbo.com.ar/heladera-drean-nf-250lts-rda250fvrt-silver/p"
+            "precio_lista": 879999.0,
+            "precio_final": 879999.0,
+            "url": "https://www.jumbo.com.ar/cocina-de-acero-inoxidable-de-55-cm-958ac4m-or/p"
         }
     ]
 }

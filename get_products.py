@@ -4,6 +4,7 @@ import time
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
+from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import WebDriverWait
 
@@ -44,17 +45,25 @@ def ensure_page_loaded(driver, wait, url):
             )
             driver.refresh()
             time.sleep(2)
+
     return False
 
 
 def extract_products_from_page(driver):
     products = []
     # Espera breve para asegurar que la página cargue los productos
+    time.sleep(5)
+
+    scroll_final(driver)
     time.sleep(2)
-    # Localizar todos los productos en la página
-    product_elements = driver.find_elements(
+
+    # Primero, obtener el contenedor principal de productos
+    gallery_container = driver.find_element(By.ID, "gallery-layout-container")
+
+    # Luego, dentro del contenedor, buscar cada producto (section)
+    product_elements = gallery_container.find_elements(
         By.CSS_SELECTOR,
-        "div.vtex-search-result-3-x-galleryItem.vtex-search-result-3-x-galleryItem--normal.vtex-search-result-3-x-galleryItem--grid.pa4",
+        "section.vtex-product-summary-2-x-container.vtex-product-summary-2-x-containerNormal.overflow-hidden.br3.h-100.w-100.flex.flex-column.justify-between.center.tc",
     )
     print(f"Encontrados {len(product_elements)} productos en la página")
     for product in product_elements:
@@ -125,6 +134,15 @@ def save_products(all_products):
         len(all_products["productos"]),
         "productos.",
     )
+
+
+def scroll_final(driver):
+    body = driver.find_element(By.TAG_NAME, "body")
+
+    # Presionar la flecha hacia abajo 56 veces con una pequeña pausa entre cada una (opcional)
+    for _ in range(56):
+        body.send_keys(Keys.ARROW_DOWN)
+        time.sleep(0.1)  # Ajusta el tiempo si es necesario
 
 
 def main():
