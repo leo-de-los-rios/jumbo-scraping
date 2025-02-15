@@ -2,6 +2,7 @@ import json
 import time
 
 from selenium import webdriver
+from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import WebDriverWait
@@ -46,7 +47,7 @@ def ensure_page_loaded(driver, wait, url):
     return False
 
 
-def extract_products_from_page(driver, wait):
+def extract_products_from_page(driver):
     products = []
     # Espera breve para asegurar que la página cargue los productos
     time.sleep(2)
@@ -136,8 +137,13 @@ def main():
         return
 
     # Inicializar Selenium WebDriver
-    driver = webdriver.Chrome()
+    chrome_options = Options()
+    chrome_options.add_argument("--ignore-certificate-errors")
+    chrome_options.add_argument("--ignore-ssl-errors=yes")
+
+    driver = webdriver.Chrome(options=chrome_options)
     driver.maximize_window()
+    driver.get(BASE_URL)
     wait = WebDriverWait(driver, 15)
 
     all_products = {"productos": []}
@@ -155,6 +161,7 @@ def main():
                             f"Accediendo a subcategoría: {sub.get('nombre')} | URL: {sub_url}"
                         )
                         driver.get(sub_url)
+                        driver.refresh()
                         time.sleep(2)  # Esperar carga inicial de la página
 
                         # Verificar que la página cargó correctamente
@@ -164,7 +171,7 @@ def main():
                             )
                             continue
 
-                        products = extract_products_from_page(driver, wait)
+                        products = extract_products_from_page(driver)
                         all_products["productos"].extend(products)
                         # Guardado incremental
                         save_products(all_products)
@@ -175,6 +182,7 @@ def main():
                         f"Accediendo a categoría sin subcategorías: {cat.get('nombre')} | URL: {cat_url}"
                     )
                     driver.get(cat_url)
+                    driver.refresh()
                     time.sleep(2)
 
                     if not ensure_page_loaded(driver, wait, cat_url):
@@ -183,7 +191,7 @@ def main():
                         )
                         continue
 
-                    products = extract_products_from_page(driver, wait)
+                    products = extract_products_from_page(driver)
                     all_products["productos"].extend(products)
                     save_products(all_products)
 
