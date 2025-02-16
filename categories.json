@@ -900,6 +900,11 @@
                             "url": "https://www.jumbo.com.ar/bebidas/vinos/vinos-frizantes"
                         }
                     ]
+                },
+                {
+                    "nombre": "Whiskys",
+                    "url": "https://www.jumbo.com.ar/Bebidas/Whiskys",
+                    "subcategorias": []
                 }
             ]
         },
@@ -1262,8 +1267,38 @@
                     ]
                 },
                 {
+                    "nombre": "Frutas",
+                    "url": "https://www.jumbo.com.ar/Congelados/Frutas",
+                    "subcategorias": []
+                },
+                {
+                    "nombre": "Hamburguesas y Milanesas",
+                    "url": "https://www.jumbo.com.ar/Congelados/Hamburguesas-y-Milanesas",
+                    "subcategorias": []
+                },
+                {
                     "nombre": "Helados y Postres",
                     "url": "https://www.jumbo.com.ar/congelados/helados-y-postres",
+                    "subcategorias": []
+                },
+                {
+                    "nombre": "Papas",
+                    "url": "https://www.jumbo.com.ar/Congelados/Papas",
+                    "subcategorias": []
+                },
+                {
+                    "nombre": "Pescados y Mariscos",
+                    "url": "https://www.jumbo.com.ar/Congelados/Pescados-y-Mariscos",
+                    "subcategorias": []
+                },
+                {
+                    "nombre": "Pollo y Carnes",
+                    "url": "https://www.jumbo.com.ar/Congelados/Pollo-y-Carnes",
+                    "subcategorias": []
+                },
+                {
+                    "nombre": "Vegetales",
+                    "url": "https://www.jumbo.com.ar/Congelados/Vegetales",
                     "subcategorias": []
                 }
             ]
